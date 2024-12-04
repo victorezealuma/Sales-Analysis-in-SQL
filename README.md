@@ -8,6 +8,8 @@ This project analyzes transaction data from a retail chain with three branches, 
 * Understand the customer purchasing behavior over time and across different branches.
 * Provide recommendations on optimizing operations and marketing strategies.
 
-__Scope:__ The analysis covered transaction data from January to March 2019 for all three branches, with a focus on product sales and customer demographics.
+__Project Scope:__ The analysis covered transaction data from January to March 2019 for all three branches, with a focus on product sales and customer demographics.
 
+## Data Overview
+The data is sourced from the retail chain’s transactional database. The dataset contains sales transactions from a three different branches of the retail chain, respectively located in Lagos, Abuja and Kano. The data contains 17 columns and 689 rows.
 
