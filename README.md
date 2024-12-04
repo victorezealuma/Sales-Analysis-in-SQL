@@ -8,6 +8,6 @@ This project analyzes transaction data from a retail chain with three branches, 
 * Understand the customer purchasing behavior over time and across different branches.
 * Provide recommendations on optimizing operations and marketing strategies.
 
-**Scope: The analysis covered transaction data from January to March 2019 for all three branches, with a focus on product sales and customer demographics.
+__Scope:__ The analysis covered transaction data from January to March 2019 for all three branches, with a focus on product sales and customer demographics.
 
 
