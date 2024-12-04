@@ -18,4 +18,5 @@ The data is sourced from the retail chain’s transactional database(fictional).
 
 ![SQL3](https://github.com/user-attachments/assets/9b4171cb-dd43-4a4b-b130-cb682dab9ed2)
 
-__Insights:__ Branch C has the highest sales, while Branch B lags behind, suggesting that improvements are needed in Branch B’s product mix or customer outreach.
+__Insights:__ 
+Branch C has the highest sales, while Branch B lags behind, suggesting that improvements are needed in Branch B’s product mix or customer outreach.
