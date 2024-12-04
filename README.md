@@ -13,4 +13,9 @@ __Project Scope:__ The analysis covered transaction data from January to March 2
 ### Data Overview
 The data is sourced from the retail chain’s transactional database(fictional). The dataset contains sales transactions from a three different branches of the retail chain, respectively located in Lagos, Abuja and Kano. The data contains 17 columns and 689 rows.
 
-### Methodology
+### Business Questions & SQL Queries
+For each key business question, present:
+* The business question.
+* The SQL query used to answer it.
+* Insights/Findings derived from the query.
+
