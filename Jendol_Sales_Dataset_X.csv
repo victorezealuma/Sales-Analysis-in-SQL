@@ -1,0 +1,690 @@
+invoice_id,Branch,City,Customer_type,Gender,Product_line,Unit_price,Quantity,VAT,Total,Date,time,Payment_method,COGS,Gross_margin_percentage,Gross_income,Rating,WEEKDAY,Month_
+101-81-4070,C,Kano,Member,Female,"Health and beauty",62.82,2,6.28,131.92,2019-01-17,12:36:00,Ewallet,125.64,4.76,6.28,4.90,Thursday,January
+102-06-2002,C,Kano,Member,Male,"Sports and travel",25.25,5,6.31,132.56,2019-03-20,17:52:00,Cash,126.25,4.76,6.31,6.10,Wednesday,March
+105-10-6182,A,Abuja,Member,Male,"Fashion accessories",21.48,2,2.15,45.11,2019-02-27,12:22:00,Ewallet,42.96,4.76,2.15,6.60,Wednesday,February
+106-35-6779,A,Abuja,Member,Male,"Home and lifestyle",44.34,2,4.43,93.11,2019-03-27,11:26:00,Cash,88.68,4.76,4.43,5.80,Wednesday,March
+109-28-2512,B,Lagos,Member,Female,"Fashion accessories",97.61,6,29.28,614.94,2019-01-07,15:01:00,Ewallet,585.66,4.76,29.28,9.90,Monday,January
+110-48-7033,B,Lagos,Member,Male,"Fashion accessories",32.62,4,6.52,137.00,2019-01-29,14:12:00,Cash,130.48,4.76,6.52,9.00,Tuesday,January
+114-35-5271,B,Lagos,Normal,Female,"Electronic accessories",57.91,8,23.16,486.44,2019-02-07,15:06:00,Cash,463.28,4.76,23.16,8.10,Thursday,February
+118-62-1812,C,Kano,Member,Female,"Home and lifestyle",78.38,4,15.68,329.20,2019-03-24,17:56:00,Cash,313.52,4.76,15.68,7.90,Sunday,March
+120-06-4233,C,Kano,Normal,Male,"Electronic accessories",30.61,6,9.18,192.84,2019-03-12,20:36:00,Cash,183.66,4.76,9.18,9.30,Tuesday,March
+122-61-9553,C,Kano,Normal,Female,"Electronic accessories",51.32,9,23.09,484.97,2019-03-14,19:33:00,Cash,461.88,4.76,23.09,5.60,Thursday,March
+123-19-1176,A,Abuja,Member,Male,"Health and beauty",58.22,8,23.29,489.05,2019-01-27,20:33:00,Ewallet,465.76,4.76,23.29,8.40,Sunday,January
+123-35-4896,C,Kano,Normal,Female,"Sports and travel",46.66,9,21.00,440.94,2019-02-17,19:11:00,Ewallet,419.94,4.76,21.00,5.30,Sunday,February
+124-31-1458,A,Abuja,Member,Female,"Electronic accessories",79.59,3,11.94,250.71,2019-01-08,14:30:00,Cash,238.77,4.76,11.94,6.60,Tuesday,January
+125-45-2293,A,Abuja,Normal,Female,"Fashion accessories",99.1,6,29.73,624.33,2019-01-19,13:11:00,Cash,594.60,4.76,29.73,4.20,Saturday,January
+129-29-8530,A,Abuja,Member,Male,"Sports and travel",62.62,5,15.66,328.76,2019-03-10,19:15:00,Ewallet,313.10,4.76,15.66,7.00,Sunday,March
+130-67-4723,A,Abuja,Member,Male,"Food and beverages",48.5,6,14.55,305.55,2019-01-11,13:57:00,Ewallet,291.00,4.76,14.55,9.40,Friday,January
+130-98-8941,C,Kano,Normal,Male,"Fashion accessories",64.26,7,22.49,472.31,2019-02-09,10:00:00,Cash,449.82,4.76,22.49,5.70,Saturday,February
+131-70-8179,A,Abuja,Member,Female,"Health and beauty",92.09,3,13.81,290.08,2019-02-17,16:27:00,Cash,276.27,4.76,13.81,4.20,Sunday,February
+132-23-6451,A,Abuja,Member,Male,"Health and beauty",20.97,5,5.24,110.09,2019-01-04,13:21:00,Cash,104.85,4.76,5.24,7.80,Friday,January
+132-32-9879,B,Lagos,Member,Female,"Electronic accessories",93.96,4,18.79,394.63,2019-03-09,18:00:00,Cash,375.84,4.76,18.79,9.50,Saturday,March
+133-14-7229,C,Kano,Normal,Male,"Health and beauty",62.87,2,6.29,132.03,2019-01-01,11:43:00,Cash,125.74,4.76,6.29,5.00,Tuesday,January
+134-54-4720,B,Lagos,Normal,Female,"Electronic accessories",42.42,8,16.97,356.33,2019-01-30,13:58:00,Ewallet,339.36,4.76,16.97,5.70,Wednesday,January
+134-75-2619,A,Abuja,Member,Male,"Electronic accessories",19.32,7,6.76,142.00,2019-03-25,18:51:00,Cash,135.24,4.76,6.76,6.90,Monday,March
+135-13-8269,B,Lagos,Member,Female,"Food and beverages",78.88,2,7.89,165.65,2019-01-26,16:04:00,Cash,157.76,4.76,7.89,9.10,Saturday,January
+135-84-8019,A,Abuja,Normal,Female,"Fashion accessories",77.93,9,35.07,736.44,2019-02-27,16:10:00,Ewallet,701.37,4.76,35.07,7.60,Wednesday,February
+137-63-5492,C,Kano,Normal,Male,"Electronic accessories",58.76,10,29.38,616.98,2019-01-29,14:26:00,Ewallet,587.60,4.76,29.38,9.00,Tuesday,January
+137-74-8729,C,Kano,Normal,Female,"Fashion accessories",12.19,8,4.88,102.40,2019-03-13,12:47:00,Ewallet,97.52,4.76,4.88,6.80,Wednesday,March
+139-32-4183,A,Abuja,Member,Female,"Sports and travel",97.48,9,43.87,921.19,2019-03-14,14:19:00,Ewallet,877.32,4.76,43.87,7.40,Thursday,March
+142-63-6033,B,Lagos,Normal,Male,"Home and lifestyle",92.36,5,23.09,484.89,2019-03-20,19:17:00,Ewallet,461.80,4.76,23.09,4.90,Wednesday,March
+145-94-9061,B,Lagos,Normal,Female,"Food and beverages",88.36,5,22.09,463.89,2019-01-25,19:48:00,Cash,441.80,4.76,22.09,9.60,Friday,January
+146-09-5432,A,Abuja,Member,Male,"Food and beverages",35.04,9,15.77,331.13,2019-02-09,19:17:00,Ewallet,315.36,4.76,15.77,4.60,Saturday,February
+148-41-7930,C,Kano,Normal,Male,"Health and beauty",99.96,7,34.99,734.71,2019-01-23,10:33:00,Cash,699.72,4.76,34.99,6.10,Wednesday,January
+149-14-0304,C,Kano,Member,Female,"Health and beauty",28.5,8,11.40,239.40,2019-02-06,14:24:00,Cash,228.00,4.76,11.40,6.60,Wednesday,February
+149-15-7606,B,Lagos,Member,Male,"Sports and travel",37.32,9,16.79,352.67,2019-03-06,15:31:00,Ewallet,335.88,4.76,16.79,5.10,Wednesday,March
+149-71-6266,B,Lagos,Member,Male,"Sports and travel",78.07,9,35.13,737.76,2019-01-28,12:43:00,Cash,702.63,4.76,35.13,4.50,Monday,January
+150-89-8043,A,Abuja,Normal,Male,"Sports and travel",44.65,3,6.70,140.65,2019-02-14,15:04:00,Cash,133.95,4.76,6.70,6.20,Thursday,February
+151-16-1484,A,Abuja,Member,Male,"Electronic accessories",32.25,4,6.45,135.45,2019-02-13,12:38:00,Ewallet,129.00,4.76,6.45,6.50,Wednesday,February
+151-27-8496,C,Kano,Normal,Female,"Electronic accessories",56.13,4,11.23,235.75,2019-01-19,11:43:00,Ewallet,224.52,4.76,11.23,8.60,Saturday,January
+153-58-4872,C,Kano,Member,Female,"Food and beverages",74.89,4,14.98,314.54,2019-03-01,15:32:00,Ewallet,299.56,4.76,14.98,4.20,Friday,March
+154-74-7179,B,Lagos,Normal,Male,"Sports and travel",54.45,1,2.72,57.17,2019-02-26,19:24:00,Ewallet,54.45,4.76,2.72,7.90,Tuesday,February
+154-87-7367,C,Kano,Normal,Male,"Home and lifestyle",65.26,8,26.10,548.18,2019-03-15,14:04:00,Ewallet,522.08,4.76,26.10,6.30,Friday,March
+155-45-3814,C,Kano,Member,Female,"Electronic accessories",88.55,8,35.42,743.82,2019-03-19,15:29:00,Ewallet,708.40,4.76,35.42,4.70,Tuesday,March
+156-95-3964,A,Abuja,Normal,Female,"Food and beverages",55.39,4,11.08,232.64,2019-03-25,15:19:00,Ewallet,221.56,4.76,11.08,8.00,Monday,March
+157-13-5295,A,Abuja,Member,Male,"Health and beauty",51.94,10,25.97,545.37,2019-03-09,18:24:00,Ewallet,519.40,4.76,25.97,6.50,Saturday,March
+160-22-2687,A,Abuja,Member,Female,"Health and beauty",95.95,5,23.99,503.74,2019-01-23,14:21:00,Ewallet,479.75,4.76,23.99,8.80,Wednesday,January
+162-48-8011,A,Abuja,Member,Female,"Food and beverages",44.59,5,11.15,234.10,2019-02-10,15:10:00,Cash,222.95,4.76,11.15,8.50,Sunday,February
+162-65-8559,C,Kano,Member,Male,"Food and beverages",68.98,1,3.45,72.43,2019-01-21,20:13:00,Cash,68.98,4.76,3.45,4.80,Monday,January
+163-56-7055,C,Kano,Member,Male,"Fashion accessories",48.71,1,2.44,51.15,2019-03-26,19:20:00,Cash,48.71,4.76,2.44,4.10,Tuesday,March
+166-19-2553,A,Abuja,Member,Male,"Sports and travel",89.06,6,26.72,561.08,2019-01-18,17:26:00,Cash,534.36,4.76,26.72,9.90,Friday,January
+173-57-2300,C,Kano,Member,Male,"Sports and travel",72.88,2,7.29,153.05,2019-03-13,12:51:00,Cash,145.76,4.76,7.29,6.10,Wednesday,March
+173-82-9529,B,Lagos,Normal,Female,"Fashion accessories",37.95,10,18.98,398.48,2019-01-26,14:51:00,Cash,379.50,4.76,18.98,9.70,Saturday,January
+174-36-3675,C,Kano,Member,Male,"Food and beverages",99.37,2,9.94,208.68,2019-02-14,17:29:00,Cash,198.74,4.76,9.94,5.20,Thursday,February
+174-75-0888,B,Lagos,Normal,Male,"Electronic accessories",21.58,9,9.71,203.93,2019-03-14,12:32:00,Cash,194.22,4.76,9.71,7.30,Thursday,March
+176-78-1170,C,Kano,Member,Male,"Health and beauty",33.81,3,5.07,106.50,2019-01-26,15:11:00,Ewallet,101.43,4.76,5.07,7.30,Saturday,January
+181-82-6255,B,Lagos,Normal,Female,"Home and lifestyle",16.37,6,4.91,103.13,2019-02-08,10:58:00,Cash,98.22,4.76,4.91,7.00,Friday,February
+181-94-6432,C,Kano,Member,Male,"Fashion accessories",69.33,2,6.93,145.59,2019-02-05,19:05:00,Ewallet,138.66,4.76,6.93,9.70,Tuesday,February
+182-52-7000,A,Abuja,Member,Female,"Sports and travel",27.04,4,5.41,113.57,2019-01-01,20:26:00,Ewallet,108.16,4.76,5.41,6.90,Tuesday,January
+183-21-3799,C,Kano,Normal,Female,"Electronic accessories",77.63,9,34.93,733.60,2019-02-19,15:14:00,Ewallet,698.67,4.76,34.93,7.20,Tuesday,February
+183-56-6882,C,Kano,Member,Female,"Food and beverages",99.42,4,19.88,417.56,2019-02-06,10:42:00,Ewallet,397.68,4.76,19.88,7.50,Wednesday,February
+186-09-3669,C,Kano,Member,Female,"Health and beauty",81.51,1,4.08,85.59,2019-01-22,10:57:00,Ewallet,81.51,4.76,4.08,9.20,Tuesday,January
+186-71-5196,A,Abuja,Member,Female,"Food and beverages",79.54,2,7.95,167.03,2019-03-27,16:30:00,Ewallet,159.08,4.76,7.95,6.20,Wednesday,March
+186-79-9562,B,Lagos,Normal,Male,"Health and beauty",71.77,7,25.12,527.51,2019-03-29,14:06:00,Cash,502.39,4.76,25.12,8.90,Friday,March
+187-83-5490,A,Abuja,Member,Male,"Electronic accessories",20.77,4,4.15,87.23,2019-01-31,13:47:00,Cash,83.08,4.76,4.15,4.70,Thursday,January
+189-40-5216,C,Kano,Normal,Male,"Electronic accessories",96.37,7,33.73,708.32,2019-01-09,11:40:00,Cash,674.59,4.76,33.73,6.00,Wednesday,January
+189-52-0236,A,Abuja,Normal,Male,"Electronic accessories",99.55,7,34.84,731.69,2019-03-14,12:07:00,Cash,696.85,4.76,34.84,7.60,Thursday,March
+189-55-2313,C,Kano,Normal,Female,"Fashion accessories",62.18,10,31.09,652.89,2019-01-31,10:33:00,Ewallet,621.80,4.76,31.09,6.00,Thursday,January
+189-98-2939,C,Kano,Normal,Male,"Fashion accessories",78.55,9,35.35,742.30,2019-03-01,13:22:00,Cash,706.95,4.76,35.35,7.20,Friday,March
+190-14-3147,B,Lagos,Normal,Female,"Health and beauty",17.97,4,3.59,75.47,2019-02-23,20:43:00,Ewallet,71.88,4.76,3.59,6.40,Saturday,February
+191-10-6171,B,Lagos,Normal,Female,"Fashion accessories",39.62,7,13.87,291.21,2019-01-25,13:18:00,Cash,277.34,4.76,13.87,7.50,Friday,January
+192-98-7397,C,Kano,Normal,Male,"Fashion accessories",12.78,1,0.64,13.42,2019-01-08,14:11:00,Ewallet,12.78,4.76,0.64,9.50,Tuesday,January
+196-01-2849,C,Kano,Member,Female,"Fashion accessories",73.38,7,25.68,539.34,2019-02-10,13:56:00,Cash,513.66,4.76,25.68,9.50,Sunday,February
+197-77-7132,B,Lagos,Member,Male,"Electronic accessories",91.56,8,36.62,769.10,2019-01-12,18:22:00,Ewallet,732.48,4.76,36.62,6.00,Saturday,January
+198-66-9832,B,Lagos,Member,Female,"Fashion accessories",72.04,2,7.20,151.28,2019-02-04,19:38:00,Cash,144.08,4.76,7.20,9.50,Monday,February
+198-84-7132,B,Lagos,Member,Male,"Fashion accessories",40.61,9,18.27,383.76,2019-01-02,13:40:00,Cash,365.49,4.76,18.27,7.00,Wednesday,January
+200-16-5952,C,Kano,Member,Male,"Food and beverages",65.65,2,6.57,137.87,2019-01-17,16:46:00,Cash,131.30,4.76,6.57,6.00,Thursday,January
+200-40-6154,B,Lagos,Member,Male,"Home and lifestyle",65.91,6,19.77,415.23,2019-02-09,11:45:00,Cash,395.46,4.76,19.77,5.70,Saturday,February
+201-63-8275,C,Kano,Member,Female,"Sports and travel",67.99,7,23.80,499.73,2019-02-17,16:50:00,Ewallet,475.93,4.76,23.80,5.70,Sunday,February
+201-86-2184,B,Lagos,Member,Female,"Electronic accessories",26.26,7,9.19,193.01,2019-02-02,19:40:00,Cash,183.82,4.76,9.19,9.90,Saturday,February
+207-73-1363,B,Lagos,Normal,Male,"Health and beauty",69.51,2,6.95,145.97,2019-03-01,12:15:00,Ewallet,139.02,4.76,6.95,8.10,Friday,March
+209-61-0206,A,Abuja,Normal,Female,"Home and lifestyle",42.91,5,10.73,225.28,2019-01-05,17:29:00,Ewallet,214.55,4.76,10.73,6.10,Saturday,January
+210-30-7976,B,Lagos,Member,Female,"Fashion accessories",22.32,4,4.46,93.74,2019-03-14,11:16:00,Ewallet,89.28,4.76,4.46,4.10,Thursday,March
+210-57-1719,B,Lagos,Normal,Female,"Health and beauty",58.24,9,26.21,550.37,2019-02-05,12:34:00,Cash,524.16,4.76,26.21,9.70,Tuesday,February
+210-74-9613,C,Kano,Normal,Male,"Fashion accessories",97.26,4,19.45,408.49,2019-03-16,15:33:00,Ewallet,389.04,4.76,19.45,6.80,Saturday,March
+211-05-0490,C,Kano,Member,Female,"Electronic accessories",51.92,5,12.98,272.58,2019-03-03,13:42:00,Cash,259.60,4.76,12.98,7.50,Sunday,March
+212-62-1842,A,Abuja,Normal,Male,"Food and beverages",58.26,6,17.48,367.04,2019-03-28,16:44:00,Cash,349.56,4.76,17.48,9.90,Thursday,March
+213-32-1216,A,Abuja,Normal,Female,"Electronic accessories",66.06,6,19.82,416.18,2019-01-23,10:28:00,Cash,396.36,4.76,19.82,7.30,Wednesday,January
+213-72-6612,A,Abuja,Normal,Male,"Food and beverages",43.25,2,4.33,90.83,2019-03-20,15:56:00,Cash,86.50,4.76,4.33,6.20,Wednesday,March
+214-17-6927,C,Kano,Normal,Female,"Food and beverages",16.48,6,4.94,103.82,2019-02-07,18:23:00,Ewallet,98.88,4.76,4.94,9.90,Thursday,February
+217-58-1179,A,Abuja,Member,Male,"Home and lifestyle",62.65,4,12.53,263.13,2019-01-05,11:25:00,Cash,250.60,4.76,12.53,4.20,Saturday,January
+218-59-9410,A,Abuja,Member,Female,"Home and lifestyle",72.42,3,10.86,228.12,2019-03-29,16:54:00,Ewallet,217.26,4.76,10.86,8.20,Friday,March
+219-61-4139,C,Kano,Normal,Male,"Electronic accessories",83.08,1,4.15,87.23,2019-01-23,17:16:00,Ewallet,83.08,4.76,4.15,6.40,Wednesday,January
+220-28-1851,A,Abuja,Normal,Male,"Home and lifestyle",34.73,2,3.47,72.93,2019-03-01,18:14:00,Ewallet,69.46,4.76,3.47,9.70,Friday,March
+220-68-6701,A,Abuja,Normal,Female,"Home and lifestyle",77.47,4,15.49,325.37,2019-03-17,16:36:00,Cash,309.88,4.76,15.49,4.20,Sunday,March
+221-25-5073,A,Abuja,Normal,Female,"Food and beverages",74.66,4,14.93,313.57,2019-03-04,10:39:00,Cash,298.64,4.76,14.93,8.50,Monday,March
+225-32-0908,C,Kano,Normal,Female,"Sports and travel",44.86,10,22.43,471.03,2019-01-26,19:54:00,Ewallet,448.60,4.76,22.43,8.20,Saturday,January
+226-31-3081,C,Kano,Normal,Female,"Electronic accessories",15.28,5,3.82,80.22,2019-03-08,10:29:00,Cash,76.40,4.76,3.82,9.60,Friday,March
+226-34-0034,B,Lagos,Normal,Female,"Electronic accessories",13.78,4,2.76,57.88,2019-01-10,11:10:00,Ewallet,55.12,4.76,2.76,9.00,Thursday,January
+226-71-3580,C,Kano,Normal,Female,"Sports and travel",23.75,9,10.69,224.44,2019-01-31,12:02:00,Cash,213.75,4.76,10.69,9.50,Thursday,January
+227-07-4446,C,Kano,Member,Female,"Electronic accessories",78.13,10,39.07,820.37,2019-02-10,20:51:00,Cash,781.30,4.76,39.07,4.40,Sunday,February
+227-50-3718,A,Abuja,Normal,Male,"Health and beauty",14.62,5,3.66,76.76,2019-03-04,12:23:00,Cash,73.10,4.76,3.66,4.40,Monday,March
+227-78-1148,B,Lagos,Normal,Female,"Fashion accessories",72.84,7,25.49,535.37,2019-02-15,12:44:00,Cash,509.88,4.76,25.49,8.40,Friday,February
+228-96-1411,C,Kano,Member,Female,"Food and beverages",98.7,8,39.48,829.08,2019-03-04,20:39:00,Cash,789.60,4.76,39.48,7.60,Monday,March
+232-11-3025,A,Abuja,Normal,Male,"Sports and travel",78.77,10,39.39,827.09,2019-01-24,10:04:00,Cash,787.70,4.76,39.39,6.40,Thursday,January
+232-16-2483,C,Kano,Member,Female,"Sports and travel",68.12,1,3.41,71.53,2019-01-07,12:28:00,Ewallet,68.12,4.76,3.41,6.80,Monday,January
+233-34-0817,C,Kano,Member,Female,"Electronic accessories",98.84,1,4.94,103.78,2019-02-15,11:21:00,Cash,98.84,4.76,4.94,8.40,Friday,February
+233-67-5758,C,Kano,Normal,Male,"Health and beauty",40.35,1,2.02,42.37,2019-01-29,13:46:00,Ewallet,40.35,4.76,2.02,6.20,Tuesday,January
+234-36-2483,B,Lagos,Normal,Male,"Health and beauty",57.59,6,17.28,362.82,2019-02-15,13:51:00,Cash,345.54,4.76,17.28,5.10,Friday,February
+234-65-2137,C,Kano,Normal,Male,"Home and lifestyle",95.58,10,47.79,1003.59,2019-01-16,13:32:00,Cash,955.80,4.76,47.79,4.80,Wednesday,January
+235-06-8510,C,Kano,Member,Male,"Home and lifestyle",85.72,3,12.86,270.02,2019-01-24,20:59:00,Ewallet,257.16,4.76,12.86,5.10,Thursday,January
+236-27-1144,C,Kano,Normal,Female,"Food and beverages",16.31,9,7.34,154.13,2019-03-26,10:31:00,Ewallet,146.79,4.76,7.34,8.40,Tuesday,March
+236-86-3015,C,Kano,Member,Male,"Home and lifestyle",13.98,1,0.70,14.68,2019-02-04,13:38:00,Ewallet,13.98,4.76,0.70,9.80,Monday,February
+237-44-6163,A,Abuja,Normal,Male,"Electronic accessories",10.56,8,4.22,88.70,2019-01-24,17:43:00,Cash,84.48,4.76,4.22,7.60,Thursday,January
+238-45-6950,B,Lagos,Member,Male,"Food and beverages",53.72,1,2.69,56.41,2019-03-01,20:03:00,Ewallet,53.72,4.76,2.69,6.40,Friday,March
+239-10-7476,A,Abuja,Normal,Female,"Home and lifestyle",77.95,6,23.39,491.09,2019-01-21,16:37:00,Ewallet,467.70,4.76,23.39,8.00,Monday,January
+239-36-3640,B,Lagos,Normal,Male,"Electronic accessories",45.35,6,13.61,285.71,2019-01-31,13:44:00,Ewallet,272.10,4.76,13.61,6.10,Thursday,January
+239-48-4278,A,Abuja,Member,Male,"Food and beverages",10.13,7,3.55,74.46,2019-03-10,19:35:00,Ewallet,70.91,4.76,3.55,8.30,Sunday,March
+241-72-9525,B,Lagos,Normal,Male,"Sports and travel",51.91,10,25.96,545.06,2019-02-16,12:21:00,Cash,519.10,4.76,25.96,8.20,Saturday,February
+242-11-3142,B,Lagos,Member,Male,"Fashion accessories",83.77,2,8.38,175.92,2019-02-24,19:57:00,Cash,167.54,4.76,8.38,4.60,Sunday,February
+242-55-6721,B,Lagos,Normal,Male,"Home and lifestyle",16.16,2,1.62,33.94,2019-03-07,11:49:00,Ewallet,32.32,4.76,1.62,6.50,Thursday,March
+243-55-8457,A,Abuja,Normal,Female,"Food and beverages",74.44,10,37.22,781.62,2019-02-27,11:40:00,Ewallet,744.40,4.76,37.22,5.10,Wednesday,February
+244-08-0162,B,Lagos,Normal,Female,"Health and beauty",34.21,10,17.11,359.21,2019-01-02,13:00:00,Cash,342.10,4.76,17.11,5.10,Wednesday,January
+246-11-3901,C,Kano,Normal,Female,"Electronic accessories",32.8,10,16.40,344.40,2019-02-15,12:12:00,Cash,328.00,4.76,16.40,6.20,Friday,February
+249-42-3782,A,Abuja,Normal,Male,"Health and beauty",70.01,5,17.50,367.55,2019-01-03,11:36:00,Ewallet,350.05,4.76,17.50,5.50,Thursday,January
+250-17-5703,A,Abuja,Member,Male,"Food and beverages",18.85,10,9.43,197.93,2019-02-27,18:24:00,Ewallet,188.50,4.76,9.43,5.60,Wednesday,February
+252-56-2699,A,Abuja,Normal,Male,"Food and beverages",43.19,10,21.60,453.50,2019-02-07,16:48:00,Ewallet,431.90,4.76,21.60,8.20,Thursday,February
+256-08-8343,A,Abuja,Normal,Female,"Home and lifestyle",56.53,4,11.31,237.43,2019-03-04,19:48:00,Ewallet,226.12,4.76,11.31,5.50,Monday,March
+256-58-3609,C,Kano,Member,Male,"Fashion accessories",91.98,1,4.60,96.58,2019-03-18,15:29:00,Cash,91.98,4.76,4.60,9.80,Monday,March
+257-60-7754,A,Abuja,Normal,Female,"Electronic accessories",50.23,4,10.05,210.97,2019-01-08,17:12:00,Cash,200.92,4.76,10.05,9.00,Tuesday,January
+257-73-1380,C,Kano,Member,Male,"Sports and travel",82.93,4,16.59,348.31,2019-01-20,16:51:00,Ewallet,331.72,4.76,16.59,9.60,Sunday,January
+258-69-7810,C,Kano,Normal,Female,"Fashion accessories",36.85,5,9.21,193.46,2019-01-26,18:53:00,Cash,184.25,4.76,9.21,9.20,Saturday,January
+263-87-5680,C,Kano,Member,Female,"Home and lifestyle",28.53,10,14.27,299.57,2019-03-18,17:38:00,Ewallet,285.30,4.76,14.27,7.80,Monday,March
+266-20-6657,C,Kano,Member,Male,"Food and beverages",55.04,7,19.26,404.54,2019-03-12,19:39:00,Ewallet,385.28,4.76,19.26,5.20,Tuesday,March
+266-76-6436,C,Kano,Member,Female,"Food and beverages",38.6,3,5.79,121.59,2019-03-28,13:57:00,Ewallet,115.80,4.76,5.79,7.50,Thursday,March
+267-62-7380,C,Kano,Member,Male,"Electronic accessories",82.34,10,41.17,864.57,2019-03-29,19:12:00,Ewallet,823.40,4.76,41.17,4.30,Friday,March
+268-03-6164,B,Lagos,Normal,Male,"Health and beauty",96.11,1,4.81,100.92,2019-01-25,16:28:00,Ewallet,96.11,4.76,4.81,7.80,Friday,January
+268-20-3585,C,Kano,Normal,Female,"Health and beauty",13.85,9,6.23,130.88,2019-02-04,12:50:00,Ewallet,124.65,4.76,6.23,6.00,Monday,February
+268-27-6179,B,Lagos,Member,Female,"Fashion accessories",56.47,8,22.59,474.35,2019-03-09,14:57:00,Ewallet,451.76,4.76,22.59,7.30,Saturday,March
+269-04-5750,B,Lagos,Member,Male,"Fashion accessories",73.82,4,14.76,310.04,2019-02-21,18:31:00,Cash,295.28,4.76,14.76,6.70,Thursday,February
+269-10-8440,A,Abuja,Member,Male,"Health and beauty",53.17,7,18.61,390.80,2019-01-21,18:01:00,Cash,372.19,4.76,18.61,8.90,Monday,January
+271-77-8740,C,Kano,Member,Female,"Sports and travel",29.22,6,8.77,184.09,2019-01-01,11:40:00,Ewallet,175.32,4.76,8.77,5.00,Tuesday,January
+272-27-9238,C,Kano,Normal,Female,"Food and beverages",41.24,4,8.25,173.21,2019-02-19,16:23:00,Cash,164.96,4.76,8.25,7.10,Tuesday,February
+272-65-1806,A,Abuja,Normal,Female,"Electronic accessories",60.88,9,27.40,575.32,2019-01-15,17:17:00,Ewallet,547.92,4.76,27.40,4.70,Tuesday,January
+273-84-2164,C,Kano,Member,Male,"Electronic accessories",12.05,5,3.01,63.26,2019-02-16,15:53:00,Ewallet,60.25,4.76,3.01,5.50,Saturday,February
+274-05-5470,A,Abuja,Member,Female,"Food and beverages",73.47,4,14.69,308.57,2019-02-23,18:30:00,Cash,293.88,4.76,14.69,6.00,Saturday,February
+275-28-0149,A,Abuja,Normal,Male,"Sports and travel",63.69,1,3.18,66.87,2019-02-25,16:21:00,Cash,63.69,4.76,3.18,6.00,Monday,February
+276-54-0879,B,Lagos,Normal,Male,"Sports and travel",97.74,4,19.55,410.51,2019-03-12,19:53:00,Ewallet,390.96,4.76,19.55,6.40,Tuesday,March
+276-75-6884,A,Abuja,Normal,Female,"Health and beauty",68.71,3,10.31,216.44,2019-03-04,10:05:00,Cash,206.13,4.76,10.31,8.70,Monday,March
+277-35-5865,C,Kano,Member,Female,"Food and beverages",98.97,9,44.54,935.27,2019-03-09,11:23:00,Cash,890.73,4.76,44.54,6.70,Saturday,March
+278-86-2735,A,Abuja,Normal,Female,"Food and beverages",52.34,3,7.85,164.87,2019-03-27,14:03:00,Cash,157.02,4.76,7.85,9.20,Wednesday,March
+278-97-7759,A,Abuja,Member,Female,"Electronic accessories",62.48,1,3.12,65.60,2019-02-18,20:29:00,Cash,62.48,4.76,3.12,4.70,Monday,February
+279-62-1445,C,Kano,Member,Female,"Fashion accessories",12.54,1,0.63,13.17,2019-02-21,12:38:00,Cash,12.54,4.76,0.63,8.20,Thursday,February
+279-74-2924,B,Lagos,Member,Male,"Electronic accessories",72.17,1,3.61,75.78,2019-01-04,19:40:00,Cash,72.17,4.76,3.61,6.10,Friday,January
+280-17-4359,C,Kano,Member,Male,"Health and beauty",90.5,10,45.25,950.25,2019-01-25,13:48:00,Cash,905.00,4.76,45.25,8.10,Friday,January
+280-35-5823,B,Lagos,Member,Female,"Home and lifestyle",86.72,1,4.34,91.06,2019-01-17,18:45:00,Ewallet,86.72,4.76,4.34,7.90,Thursday,January
+282-35-2475,B,Lagos,Normal,Female,"Sports and travel",93.31,2,9.33,195.95,2019-03-25,17:53:00,Cash,186.62,4.76,9.33,6.30,Monday,March
+283-26-5248,C,Kano,Member,Female,"Food and beverages",98.52,10,49.26,1034.46,2019-01-30,20:23:00,Ewallet,985.20,4.76,49.26,4.50,Wednesday,January
+286-01-5402,A,Abuja,Normal,Female,"Sports and travel",40.23,7,14.08,295.69,2019-03-30,13:22:00,Cash,281.61,4.76,14.08,9.60,Saturday,March
+286-43-6208,C,Kano,Normal,Female,"Food and beverages",87.8,9,39.51,829.71,2019-03-16,19:08:00,Cash,790.20,4.76,39.51,9.20,Saturday,March
+287-21-9091,A,Abuja,Normal,Male,"Home and lifestyle",74.67,9,33.60,705.63,2019-01-22,10:55:00,Ewallet,672.03,4.76,33.60,9.40,Tuesday,January
+287-83-1405,A,Abuja,Normal,Male,"Health and beauty",25.43,6,7.63,160.21,2019-02-12,19:01:00,Ewallet,152.58,4.76,7.63,7.00,Tuesday,February
+288-38-3758,C,Kano,Member,Female,"Fashion accessories",84.87,3,12.73,267.34,2019-01-25,18:30:00,Ewallet,254.61,4.76,12.73,7.40,Friday,January
+288-62-1085,A,Abuja,Member,Male,"Fashion accessories",38.54,5,9.64,202.34,2019-01-09,13:34:00,Ewallet,192.70,4.76,9.64,5.60,Wednesday,January
+289-65-5721,B,Lagos,Normal,Female,"Fashion accessories",81.37,2,8.14,170.88,2019-01-26,19:28:00,Cash,162.74,4.76,8.14,6.50,Saturday,January
+290-68-2984,A,Abuja,Normal,Male,"Home and lifestyle",23.75,4,4.75,99.75,2019-03-16,11:22:00,Cash,95.00,4.76,4.75,5.20,Saturday,March
+291-21-5991,B,Lagos,Member,Male,"Health and beauty",61.29,5,15.32,321.77,2019-03-29,14:28:00,Cash,306.45,4.76,15.32,7.00,Friday,March
+291-32-1427,B,Lagos,Member,Male,"Fashion accessories",21.94,5,5.49,115.19,2019-03-05,12:29:00,Ewallet,109.70,4.76,5.49,5.30,Tuesday,March
+291-55-6563,A,Abuja,Member,Female,"Home and lifestyle",34.42,6,10.33,216.85,2019-03-30,12:45:00,Ewallet,206.52,4.76,10.33,7.50,Saturday,March
+291-59-1384,B,Lagos,Normal,Male,"Electronic accessories",60.3,1,3.02,63.32,2019-02-28,17:38:00,Cash,60.30,4.76,3.02,6.00,Thursday,February
+299-29-0180,B,Lagos,Member,Female,"Home and lifestyle",52.18,7,18.26,383.52,2019-03-09,10:54:00,Cash,365.26,4.76,18.26,9.30,Saturday,March
+299-46-1805,B,Lagos,Member,Female,"Sports and travel",93.72,6,28.12,590.44,2019-01-15,16:19:00,Cash,562.32,4.76,28.12,4.50,Tuesday,January
+300-71-4605,C,Kano,Member,Male,"Electronic accessories",86.04,5,21.51,451.71,2019-02-25,11:24:00,Ewallet,430.20,4.76,21.51,4.80,Monday,February
+301-11-9629,A,Abuja,Normal,Female,"Sports and travel",19.1,7,6.69,140.39,2019-01-15,10:43:00,Cash,133.70,4.76,6.69,9.70,Tuesday,January
+303-96-2227,B,Lagos,Normal,Female,"Home and lifestyle",97.38,10,48.69,1022.49,2019-03-02,17:16:00,Ewallet,973.80,4.76,48.69,4.40,Saturday,March
+305-03-2383,A,Abuja,Normal,Female,"Food and beverages",67.1,3,10.07,211.37,2019-02-15,10:36:00,Cash,201.30,4.76,10.07,7.50,Friday,February
+305-14-0245,B,Lagos,Member,Female,"Home and lifestyle",94.49,8,37.80,793.72,2019-03-03,19:00:00,Ewallet,755.92,4.76,37.80,7.50,Sunday,March
+305-18-3552,B,Lagos,Member,Male,"Home and lifestyle",60.38,10,30.19,633.99,2019-02-12,16:19:00,Cash,603.80,4.76,30.19,6.00,Tuesday,February
+305-89-2768,B,Lagos,Member,Female,"Home and lifestyle",21.9,3,3.29,68.99,2019-01-09,18:43:00,Ewallet,65.70,4.76,3.29,4.70,Wednesday,January
+307-83-9164,A,Abuja,Member,Male,"Home and lifestyle",60.01,4,12.00,252.04,2019-01-25,15:54:00,Cash,240.04,4.76,12.00,4.50,Friday,January
+307-85-2293,B,Lagos,Normal,Male,"Home and lifestyle",50.28,5,12.57,263.97,2019-03-07,13:58:00,Ewallet,251.40,4.76,12.57,9.70,Thursday,March
+314-23-4520,C,Kano,Member,Male,"Health and beauty",81.23,7,28.43,597.04,2019-01-15,20:44:00,Cash,568.61,4.76,28.43,9.00,Tuesday,January
+315-22-5665,C,Kano,Normal,Female,"Home and lifestyle",73.56,10,36.78,772.38,2019-02-24,11:38:00,Ewallet,735.60,4.76,36.78,8.00,Sunday,February
+316-01-3952,A,Abuja,Normal,Female,"Food and beverages",54.27,5,13.57,284.92,2019-03-13,14:16:00,Ewallet,271.35,4.76,13.57,4.60,Wednesday,March
+316-66-3011,A,Abuja,Member,Female,"Food and beverages",47.63,9,21.43,450.10,2019-01-23,12:35:00,Cash,428.67,4.76,21.43,5.00,Wednesday,January
+316-68-6352,A,Abuja,Member,Female,"Food and beverages",36.36,2,3.64,76.36,2019-01-21,10:00:00,Cash,72.72,4.76,3.64,7.10,Monday,January
+318-12-0304,A,Abuja,Normal,Male,"Fashion accessories",30.61,1,1.53,32.14,2019-01-23,12:20:00,Ewallet,30.61,4.76,1.53,5.20,Wednesday,January
+318-68-5053,B,Lagos,Normal,Female,"Health and beauty",76.99,6,23.10,485.04,2019-02-27,17:55:00,Cash,461.94,4.76,23.10,6.10,Wednesday,February
+318-81-2368,C,Kano,Normal,Female,"Electronic accessories",46.2,1,2.31,48.51,2019-03-19,12:16:00,Cash,46.20,4.76,2.31,6.30,Tuesday,March
+319-50-3348,B,Lagos,Normal,Female,"Home and lifestyle",40.3,2,4.03,84.63,2019-03-11,15:30:00,Ewallet,80.60,4.76,4.03,4.40,Monday,March
+319-74-2561,A,Abuja,Member,Female,"Electronic accessories",94.64,3,14.20,298.12,2019-02-21,16:55:00,Cash,283.92,4.76,14.20,5.50,Thursday,February
+320-32-8842,C,Kano,Member,Female,"Food and beverages",22.62,1,1.13,23.75,2019-03-17,18:58:00,Cash,22.62,4.76,1.13,6.40,Sunday,March
+320-49-6392,C,Kano,Normal,Female,"Electronic accessories",30.24,1,1.51,31.75,2019-03-04,15:44:00,Cash,30.24,4.76,1.51,8.40,Monday,March
+322-02-2271,B,Lagos,Normal,Female,"Sports and travel",42.97,3,6.45,135.36,2019-02-03,11:46:00,Cash,128.91,4.76,6.45,9.30,Sunday,February
+324-41-6833,C,Kano,Member,Female,"Electronic accessories",30.2,8,12.08,253.68,2019-03-03,19:30:00,Ewallet,241.60,4.76,12.08,5.10,Sunday,March
+324-92-3863,A,Abuja,Member,Male,"Electronic accessories",20.89,2,2.09,43.87,2019-02-05,18:45:00,Cash,41.78,4.76,2.09,9.80,Tuesday,February
+325-77-6186,A,Abuja,Member,Female,"Home and lifestyle",90.65,10,45.33,951.83,2019-03-08,10:53:00,Ewallet,906.50,4.76,45.33,7.30,Friday,March
+325-89-4209,A,Abuja,Member,Male,"Food and beverages",87.9,1,4.40,92.30,2019-02-05,19:42:00,Ewallet,87.90,4.76,4.40,6.70,Tuesday,February
+325-90-8763,C,Kano,Member,Female,"Electronic accessories",46.57,10,23.29,488.99,2019-01-27,13:58:00,Cash,465.70,4.76,23.29,7.60,Sunday,January
+326-71-2155,C,Kano,Normal,Female,"Sports and travel",73.95,4,14.79,310.59,2019-02-03,10:02:00,Cash,295.80,4.76,14.79,6.10,Sunday,February
+326-78-5178,C,Kano,Member,Male,"Food and beverages",91.4,7,31.99,671.79,2019-02-03,10:19:00,Cash,639.80,4.76,31.99,9.50,Sunday,February
+327-40-9673,B,Lagos,Member,Male,"Sports and travel",72.6,6,21.78,457.38,2019-01-13,19:51:00,Cash,435.60,4.76,21.78,6.90,Sunday,January
+333-23-2632,A,Abuja,Member,Male,"Health and beauty",10.08,7,3.53,74.09,2019-03-28,20:14:00,Cash,70.56,4.76,3.53,4.20,Thursday,March
+333-73-7901,C,Kano,Normal,Female,"Health and beauty",54.92,8,21.97,461.33,2019-03-23,13:24:00,Ewallet,439.36,4.76,21.97,7.60,Saturday,March
+334-64-2006,A,Abuja,Member,Female,"Home and lifestyle",70.32,2,7.03,147.67,2019-03-24,14:22:00,Ewallet,140.64,4.76,7.03,9.60,Sunday,March
+338-65-2210,C,Kano,Member,Female,"Health and beauty",68.6,10,34.30,720.30,2019-02-05,19:57:00,Cash,686.00,4.76,34.30,9.10,Tuesday,February
+339-38-9982,B,Lagos,Member,Male,"Fashion accessories",59.86,2,5.99,125.71,2019-01-13,14:55:00,Ewallet,119.72,4.76,5.99,6.70,Sunday,January
+339-96-8318,B,Lagos,Member,Male,"Fashion accessories",81.31,7,28.46,597.63,2019-03-01,19:49:00,Ewallet,569.17,4.76,28.46,6.30,Friday,March
+340-21-9136,A,Abuja,Member,Female,"Sports and travel",40.05,4,8.01,168.21,2019-01-25,11:40:00,Cash,160.20,4.76,8.01,9.70,Friday,January
+340-66-0321,A,Abuja,Member,Male,"Electronic accessories",36.36,4,7.27,152.71,2019-03-25,13:07:00,Cash,145.44,4.76,7.27,7.60,Monday,March
+342-65-4817,C,Kano,Member,Male,"Health and beauty",86.8,3,13.02,273.42,2019-01-28,16:47:00,Ewallet,260.40,4.76,13.02,9.90,Monday,January
+343-61-3544,B,Lagos,Member,Male,"Sports and travel",26.67,10,13.34,280.04,2019-01-29,11:48:00,Cash,266.70,4.76,13.34,8.60,Tuesday,January
+343-75-9322,B,Lagos,Member,Female,"Sports and travel",11.85,8,4.74,99.54,2019-01-09,16:34:00,Cash,94.80,4.76,4.74,4.10,Wednesday,January
+346-12-3257,B,Lagos,Member,Male,"Electronic accessories",19.24,9,8.66,181.82,2019-03-04,16:28:00,Cash,173.16,4.76,8.66,8.00,Monday,March
+346-84-3103,B,Lagos,Member,Female,"Electronic accessories",13.22,5,3.31,69.41,2019-03-02,19:26:00,Cash,66.10,4.76,3.31,4.30,Saturday,March
+347-34-2234,B,Lagos,Member,Female,"Sports and travel",55.07,9,24.78,520.41,2019-02-03,13:40:00,Ewallet,495.63,4.76,24.78,10.00,Sunday,February
+347-56-2442,A,Abuja,Normal,Male,"Home and lifestyle",65.82,1,3.29,69.11,2019-02-22,15:33:00,Cash,65.82,4.76,3.29,4.10,Friday,February
+349-97-8902,B,Lagos,Member,Male,"Food and beverages",57.89,2,5.79,121.57,2019-01-17,10:37:00,Ewallet,115.78,4.76,5.79,8.90,Thursday,January
+351-62-0822,B,Lagos,Member,Female,"Fashion accessories",14.48,4,2.90,60.82,2019-02-06,18:07:00,Ewallet,57.92,4.76,2.90,4.50,Wednesday,February
+354-25-5821,B,Lagos,Member,Female,"Sports and travel",69.12,6,20.74,435.46,2019-02-08,13:03:00,Cash,414.72,4.76,20.74,5.60,Friday,February
+354-39-5160,A,Abuja,Member,Female,"Home and lifestyle",34.42,6,10.33,216.85,2019-02-18,15:39:00,Cash,206.52,4.76,10.33,9.80,Monday,February
+355-53-5943,A,Abuja,Member,Female,"Electronic accessories",68.84,6,20.65,433.69,2019-02-25,14:36:00,Ewallet,413.04,4.76,20.65,5.80,Monday,February
+358-88-9262,C,Kano,Member,Female,"Food and beverages",87.48,6,26.24,551.12,2019-02-01,18:43:00,Ewallet,524.88,4.76,26.24,5.10,Friday,February
+360-39-5055,C,Kano,Member,Male,"Sports and travel",48.91,5,12.23,256.78,2019-03-09,10:17:00,Cash,244.55,4.76,12.23,6.60,Saturday,March
+361-85-2571,A,Abuja,Normal,Female,"Sports and travel",89.48,5,22.37,469.77,2019-03-30,10:18:00,Cash,447.40,4.76,22.37,7.40,Saturday,March
+362-58-8315,C,Kano,Normal,Male,"Fashion accessories",76.52,5,19.13,401.73,2019-03-25,10:23:00,Cash,382.60,4.76,19.13,9.90,Monday,March
+364-33-8584,B,Lagos,Member,Female,"Food and beverages",17.63,5,4.41,92.56,2019-03-08,15:27:00,Cash,88.15,4.76,4.41,8.50,Friday,March
+364-34-2972,C,Kano,Member,Male,"Electronic accessories",96.82,3,14.52,304.98,2019-03-30,20:37:00,Cash,290.46,4.76,14.52,6.70,Saturday,March
+365-16-4334,B,Lagos,Normal,Female,"Food and beverages",26.43,8,10.57,222.01,2019-02-24,14:26:00,Ewallet,211.44,4.76,10.57,8.90,Sunday,February
+365-64-0515,A,Abuja,Normal,Female,"Electronic accessories",46.95,5,11.74,246.49,2019-02-12,10:25:00,Ewallet,234.75,4.76,11.74,7.10,Tuesday,February
+366-43-6862,B,Lagos,Normal,Male,"Electronic accessories",52.89,4,10.58,222.14,2019-03-25,16:32:00,Ewallet,211.56,4.76,10.58,6.70,Monday,March
+369-82-2676,B,Lagos,Normal,Male,"Electronic accessories",75.66,5,18.92,397.22,2019-01-15,18:22:00,Ewallet,378.30,4.76,18.92,7.80,Tuesday,January
+370-96-0655,C,Kano,Normal,Female,"Fashion accessories",49.32,6,14.80,310.72,2019-01-09,13:46:00,Ewallet,295.92,4.76,14.80,7.10,Wednesday,January
+371-85-5789,B,Lagos,Normal,Male,"Health and beauty",87.98,3,13.20,277.14,2019-03-05,10:40:00,Ewallet,263.94,4.76,13.20,5.10,Tuesday,March
+372-26-1506,C,Kano,Normal,Female,"Fashion accessories",23.82,5,5.96,125.06,2019-01-28,19:24:00,Ewallet,119.10,4.76,5.96,5.40,Monday,January
+372-62-5264,C,Kano,Normal,Female,"Food and beverages",52.6,9,23.67,497.07,2019-01-16,14:42:00,Cash,473.40,4.76,23.67,7.60,Wednesday,January
+372-94-8041,A,Abuja,Normal,Male,"Health and beauty",15.26,6,4.58,96.14,2019-02-15,18:03:00,Ewallet,91.56,4.76,4.58,9.80,Friday,February
+373-09-4567,C,Kano,Normal,Male,"Food and beverages",77.56,10,38.78,814.38,2019-03-14,20:35:00,Ewallet,775.60,4.76,38.78,6.90,Thursday,March
+373-14-0504,A,Abuja,Member,Female,"Sports and travel",71.63,2,7.16,150.42,2019-02-12,14:33:00,Ewallet,143.26,4.76,7.16,8.80,Tuesday,February
+373-73-7910,A,Abuja,Normal,Male,"Sports and travel",86.31,7,30.21,634.38,2019-02-08,10:37:00,Ewallet,604.17,4.76,30.21,5.30,Friday,February
+373-88-1424,C,Kano,Member,Male,"Home and lifestyle",35.81,5,8.95,188.00,2019-02-06,18:44:00,Ewallet,179.05,4.76,8.95,7.90,Wednesday,February
+374-38-5555,B,Lagos,Normal,Female,"Fashion accessories",63.71,5,15.93,334.48,2019-02-07,19:30:00,Ewallet,318.55,4.76,15.93,8.50,Thursday,February
+375-72-3056,B,Lagos,Normal,Male,"Sports and travel",63.06,3,9.46,198.64,2019-01-19,15:58:00,Ewallet,189.18,4.76,9.46,7.00,Saturday,January
+376-56-3573,C,Kano,Normal,Female,"Fashion accessories",95.42,4,19.08,400.76,2019-02-02,13:23:00,Ewallet,381.68,4.76,19.08,6.40,Saturday,February
+378-24-2715,B,Lagos,Normal,Male,"Home and lifestyle",53.44,2,5.34,112.22,2019-01-20,20:38:00,Ewallet,106.88,4.76,5.34,4.10,Sunday,January
+379-17-6588,C,Kano,Normal,Male,"Fashion accessories",59.61,10,29.81,625.91,2019-03-14,11:07:00,Cash,596.10,4.76,29.81,5.30,Thursday,March
+382-03-4532,A,Abuja,Member,Female,"Health and beauty",18.33,1,0.92,19.25,2019-02-02,18:50:00,Cash,18.33,4.76,0.92,4.30,Saturday,February
+382-25-8917,C,Kano,Normal,Male,"Fashion accessories",42.08,6,12.62,265.10,2019-01-29,12:25:00,Cash,252.48,4.76,12.62,8.90,Tuesday,January
+384-59-6655,A,Abuja,Member,Female,"Food and beverages",98.66,9,44.40,932.34,2019-02-19,15:07:00,Cash,887.94,4.76,44.40,8.40,Tuesday,February
+387-49-4215,B,Lagos,Member,Female,"Sports and travel",48.5,3,7.28,152.78,2019-01-08,12:50:00,Cash,145.50,4.76,7.28,6.70,Tuesday,January
+388-76-2555,B,Lagos,Normal,Male,"Sports and travel",13.69,6,4.11,86.25,2019-02-13,13:59:00,Cash,82.14,4.76,4.11,6.30,Wednesday,February
+389-25-3394,C,Kano,Normal,Male,"Electronic accessories",11.81,5,2.95,62.00,2019-02-17,18:06:00,Cash,59.05,4.76,2.95,9.40,Sunday,February
+389-70-2397,C,Kano,Normal,Female,"Health and beauty",83.66,5,20.92,439.22,2019-02-21,10:26:00,Cash,418.30,4.76,20.92,7.20,Thursday,February
+390-17-5806,C,Kano,Member,Female,"Food and beverages",38.42,1,1.92,40.34,2019-02-02,16:33:00,Cash,38.42,4.76,1.92,8.60,Saturday,February
+390-31-6381,C,Kano,Normal,Male,"Food and beverages",27.22,3,4.08,85.74,2019-01-07,12:37:00,Cash,81.66,4.76,4.08,7.30,Monday,January
+394-41-0748,C,Kano,Member,Female,"Fashion accessories",54.07,9,24.33,510.96,2019-01-27,14:55:00,Ewallet,486.63,4.76,24.33,9.50,Sunday,January
+394-55-6384,C,Kano,Member,Female,"Sports and travel",70.19,9,31.59,663.30,2019-01-25,13:38:00,Cash,631.71,4.76,31.59,6.70,Friday,January
+396-90-2219,B,Lagos,Normal,Female,"Electronic accessories",14.96,8,5.98,125.66,2019-02-23,12:29:00,Cash,119.68,4.76,5.98,8.60,Saturday,February
+399-46-5918,C,Kano,Normal,Female,"Electronic accessories",85.98,8,34.39,722.23,2019-02-28,19:01:00,Cash,687.84,4.76,34.39,8.20,Thursday,February
+400-60-7251,A,Abuja,Normal,Male,"Home and lifestyle",74.07,1,3.70,77.77,2019-02-10,12:50:00,Ewallet,74.07,4.76,3.70,9.90,Sunday,February
+400-89-4171,C,Kano,Normal,Female,"Sports and travel",80.97,8,32.39,680.15,2019-01-28,13:05:00,Cash,647.76,4.76,32.39,9.30,Monday,January
+401-09-4232,C,Kano,Member,Male,"Home and lifestyle",86.69,5,21.67,455.12,2019-02-11,18:38:00,Ewallet,433.45,4.76,21.67,9.40,Monday,February
+401-18-8016,B,Lagos,Member,Female,"Sports and travel",98.13,1,4.91,103.04,2019-01-21,17:36:00,Cash,98.13,4.76,4.91,8.90,Monday,January
+406-46-7107,A,Abuja,Normal,Female,"Home and lifestyle",96.52,6,28.96,608.08,2019-01-11,11:52:00,Cash,579.12,4.76,28.96,4.50,Friday,January
+407-63-8975,A,Abuja,Normal,Male,"Food and beverages",73.88,6,22.16,465.44,2019-03-23,19:16:00,Ewallet,443.28,4.76,22.16,4.40,Saturday,March
+408-26-9866,C,Kano,Normal,Female,"Sports and travel",73.98,7,25.89,543.75,2019-03-02,16:42:00,Ewallet,517.86,4.76,25.89,4.10,Saturday,March
+408-66-6712,C,Kano,Member,Female,"Health and beauty",47.71,6,14.31,300.57,2019-02-16,14:19:00,Ewallet,286.26,4.76,14.31,4.40,Saturday,February
+409-33-9708,A,Abuja,Normal,Female,"Fashion accessories",98.48,2,9.85,206.81,2019-02-19,10:12:00,Ewallet,196.96,4.76,9.85,9.20,Tuesday,February
+409-49-6995,C,Kano,Member,Female,"Food and beverages",47.27,6,14.18,297.80,2019-02-05,10:17:00,Cash,283.62,4.76,14.18,8.80,Tuesday,February
+410-67-1709,A,Abuja,Member,Female,"Fashion accessories",63.88,8,25.55,536.59,2019-01-20,17:48:00,Ewallet,511.04,4.76,25.55,9.90,Sunday,January
+411-77-0180,A,Abuja,Member,Male,"Electronic accessories",72.2,7,25.27,530.67,2019-03-26,20:14:00,Ewallet,505.40,4.76,25.27,4.30,Tuesday,March
+413-20-6708,C,Kano,Member,Female,"Fashion accessories",51.47,1,2.57,54.04,2019-03-18,15:52:00,Ewallet,51.47,4.76,2.57,8.50,Monday,March
+414-12-7047,B,Lagos,Normal,Male,"Food and beverages",19.79,8,7.92,166.24,2019-01-18,12:04:00,Ewallet,158.32,4.76,7.92,8.70,Friday,January
+416-13-5917,C,Kano,Normal,Female,"Food and beverages",97.03,5,24.26,509.41,2019-01-30,16:24:00,Ewallet,485.15,4.76,24.26,9.30,Wednesday,January
+418-02-5978,B,Lagos,Normal,Female,"Health and beauty",84.09,9,37.84,794.65,2019-02-11,10:54:00,Cash,756.81,4.76,37.84,8.00,Monday,February
+418-05-0656,B,Lagos,Normal,Female,"Fashion accessories",25.56,7,8.95,187.87,2019-02-02,20:42:00,Cash,178.92,4.76,8.95,7.10,Saturday,February
+420-04-7590,B,Lagos,Normal,Male,"Home and lifestyle",99.7,3,14.96,314.06,2019-03-18,11:29:00,Ewallet,299.10,4.76,14.96,4.70,Monday,March
+420-18-8989,A,Abuja,Member,Female,"Sports and travel",51.52,8,20.61,432.77,2019-02-02,15:47:00,Cash,412.16,4.76,20.61,9.60,Saturday,February
+423-57-2993,B,Lagos,Normal,Male,"Sports and travel",93.39,6,28.02,588.36,2019-03-27,19:18:00,Ewallet,560.34,4.76,28.02,10.00,Wednesday,March
+423-64-4619,A,Abuja,Member,Female,"Health and beauty",15.55,9,7.00,146.95,2019-03-07,13:12:00,Cash,139.95,4.76,7.00,5.00,Thursday,March
+423-80-0988,C,Kano,Normal,Male,"Sports and travel",76.4,2,7.64,160.44,2019-01-30,19:42:00,Ewallet,152.80,4.76,7.64,6.50,Wednesday,January
+425-85-2085,B,Lagos,Member,Male,"Health and beauty",54.86,5,13.72,288.02,2019-03-29,16:48:00,Ewallet,274.30,4.76,13.72,9.80,Friday,March
+426-39-2418,C,Kano,Normal,Male,"Electronic accessories",61.41,7,21.49,451.36,2019-01-14,10:02:00,Cash,429.87,4.76,21.49,9.80,Monday,January
+427-45-9297,B,Lagos,Member,Female,"Home and lifestyle",40.73,7,14.26,299.37,2019-03-12,11:01:00,Ewallet,285.11,4.76,14.26,5.40,Tuesday,March
+428-83-5800,C,Kano,Member,Female,"Food and beverages",21.08,3,3.16,66.40,2019-02-09,10:25:00,Cash,63.24,4.76,3.16,7.30,Saturday,February
+430-02-3888,B,Lagos,Normal,Male,"Electronic accessories",46.02,6,13.81,289.93,2019-02-07,15:55:00,Cash,276.12,4.76,13.81,7.10,Thursday,February
+430-60-3493,A,Abuja,Member,Female,"Home and lifestyle",94.88,7,33.21,697.37,2019-02-03,14:38:00,Cash,664.16,4.76,33.21,4.20,Sunday,February
+433-08-7822,C,Kano,Normal,Female,"Health and beauty",78.89,7,27.61,579.84,2019-01-05,19:48:00,Ewallet,552.23,4.76,27.61,7.50,Saturday,January
+433-75-6987,B,Lagos,Member,Female,"Health and beauty",55.97,7,19.59,411.38,2019-03-05,19:06:00,Ewallet,391.79,4.76,19.59,8.90,Tuesday,March
+434-35-9162,B,Lagos,Member,Male,"Food and beverages",23.34,4,4.67,98.03,2019-02-04,18:53:00,Ewallet,93.36,4.76,4.67,7.40,Monday,February
+434-83-9547,C,Kano,Member,Male,"Food and beverages",38.47,8,15.39,323.15,2019-01-23,11:51:00,Cash,307.76,4.76,15.39,7.70,Wednesday,January
+436-54-4512,A,Abuja,Member,Female,"Food and beverages",91.61,1,4.58,96.19,2019-03-20,19:44:00,Cash,91.61,4.76,4.58,9.80,Wednesday,March
+437-53-3084,B,Lagos,Normal,Male,"Fashion accessories",99.89,2,9.99,209.77,2019-02-26,11:48:00,Ewallet,199.78,4.76,9.99,7.10,Tuesday,February
+437-58-8131,B,Lagos,Normal,Female,"Fashion accessories",73.52,2,7.35,154.39,2019-01-15,13:41:00,Ewallet,147.04,4.76,7.35,4.60,Tuesday,January
+438-01-4015,B,Lagos,Member,Female,"Sports and travel",49.49,4,9.90,207.86,2019-03-21,15:25:00,Ewallet,197.96,4.76,9.90,6.60,Thursday,March
+438-23-1242,B,Lagos,Normal,Male,"Electronic accessories",75.88,7,26.56,557.72,2019-01-24,10:38:00,Ewallet,531.16,4.76,26.56,8.90,Thursday,January
+441-94-7118,A,Abuja,Member,Male,"Electronic accessories",71.95,1,3.60,75.55,2019-02-04,12:14:00,Cash,71.95,4.76,3.60,7.30,Monday,February
+443-59-0061,A,Abuja,Member,Male,"Food and beverages",67.45,10,33.73,708.23,2019-02-03,11:25:00,Ewallet,674.50,4.76,33.73,4.20,Sunday,February
+443-60-9639,C,Kano,Member,Female,"Home and lifestyle",60.87,1,3.04,63.91,2019-01-24,13:24:00,Cash,60.87,4.76,3.04,5.50,Thursday,January
+443-82-0585,A,Abuja,Member,Female,"Health and beauty",77.68,4,15.54,326.26,2019-02-01,19:54:00,Cash,310.72,4.76,15.54,8.40,Friday,February
+445-30-9252,A,Abuja,Normal,Male,"Sports and travel",25.7,3,3.86,80.96,2019-01-17,17:59:00,Ewallet,77.10,4.76,3.86,6.10,Thursday,January
+447-15-7839,A,Abuja,Member,Female,"Sports and travel",22.24,10,11.12,233.52,2019-02-09,11:00:00,Cash,222.40,4.76,11.12,4.20,Saturday,February
+448-34-8700,B,Lagos,Member,Male,"Home and lifestyle",36.91,7,12.92,271.29,2019-02-10,13:51:00,Ewallet,258.37,4.76,12.92,6.70,Sunday,February
+450-28-2866,C,Kano,Member,Male,"Food and beverages",17.44,5,4.36,91.56,2019-01-15,19:25:00,Cash,87.20,4.76,4.36,8.10,Tuesday,January
+451-28-5717,C,Kano,Member,Female,"Home and lifestyle",83.17,6,24.95,523.97,2019-03-20,11:23:00,Cash,499.02,4.76,24.95,7.30,Wednesday,March
+451-73-2711,C,Kano,Normal,Male,"Food and beverages",84.83,1,4.24,89.07,2019-01-14,15:20:00,Ewallet,84.83,4.76,4.24,8.80,Monday,January
+452-04-8808,B,Lagos,Normal,Male,"Electronic accessories",87.08,7,30.48,640.04,2019-01-26,15:17:00,Cash,609.56,4.76,30.48,5.50,Saturday,January
+453-33-6436,A,Abuja,Normal,Female,"Home and lifestyle",93.12,8,37.25,782.21,2019-02-07,10:09:00,Cash,744.96,4.76,37.25,6.80,Thursday,February
+453-63-6187,B,Lagos,Normal,Male,"Electronic accessories",27.5,3,4.13,86.63,2019-03-01,15:40:00,Ewallet,82.50,4.76,4.13,6.50,Friday,March
+457-12-0244,C,Kano,Member,Female,"Sports and travel",35.22,6,10.57,221.89,2019-03-14,13:49:00,Ewallet,211.32,4.76,10.57,6.50,Thursday,March
+457-94-0464,B,Lagos,Member,Male,"Electronic accessories",87.87,9,39.54,830.37,2019-01-31,20:32:00,Ewallet,790.83,4.76,39.54,5.60,Thursday,January
+458-10-8612,C,Kano,Normal,Male,"Health and beauty",64.08,7,22.43,470.99,2019-01-20,12:27:00,Ewallet,448.56,4.76,22.43,7.60,Sunday,January
+458-61-0011,B,Lagos,Normal,Male,"Food and beverages",60.3,4,12.06,253.26,2019-02-20,18:43:00,Cash,241.20,4.76,12.06,5.80,Wednesday,February
+459-45-2396,A,Abuja,Member,Female,"Food and beverages",99.6,3,14.94,313.74,2019-02-25,18:45:00,Cash,298.80,4.76,14.94,5.80,Monday,February
+459-50-7686,A,Abuja,Normal,Female,"Electronic accessories",23.46,6,7.04,147.80,2019-01-13,19:14:00,Ewallet,140.76,4.76,7.04,6.40,Sunday,January
+460-35-4390,A,Abuja,Normal,Male,"Home and lifestyle",30.68,3,4.60,96.64,2019-01-22,11:00:00,Ewallet,92.04,4.76,4.60,9.10,Tuesday,January
+460-93-5834,A,Abuja,Normal,Male,"Sports and travel",45.58,7,15.95,335.01,2019-01-13,10:03:00,Cash,319.06,4.76,15.95,5.00,Sunday,January
+462-67-9126,A,Abuja,Normal,Male,"Home and lifestyle",73.22,6,21.97,461.29,2019-01-21,17:44:00,Cash,439.32,4.76,21.97,7.20,Monday,January
+462-78-5240,C,Kano,Normal,Female,"Electronic accessories",26.61,2,2.66,55.88,2019-03-19,14:35:00,Cash,53.22,4.76,2.66,4.20,Tuesday,March
+466-61-5506,B,Lagos,Member,Female,"Electronic accessories",90.7,6,27.21,571.41,2019-02-26,10:52:00,Cash,544.20,4.76,27.21,5.30,Tuesday,February
+468-01-2051,B,Lagos,Normal,Male,"Food and beverages",62.08,7,21.73,456.29,2019-03-06,13:46:00,Ewallet,434.56,4.76,21.73,5.40,Wednesday,March
+468-88-0009,A,Abuja,Member,Male,"Home and lifestyle",65.94,4,13.19,276.95,2019-03-24,10:29:00,Cash,263.76,4.76,13.19,6.00,Sunday,March
+468-99-7231,C,Kano,Normal,Female,"Home and lifestyle",44.01,8,17.60,369.68,2019-03-03,17:36:00,Cash,352.08,4.76,17.60,8.80,Sunday,March
+471-41-2823,C,Kano,Normal,Male,"Food and beverages",99.79,2,9.98,209.56,2019-03-07,20:37:00,Ewallet,199.58,4.76,9.98,8.00,Thursday,March
+472-15-9636,A,Abuja,Normal,Male,"Home and lifestyle",50.93,8,20.37,427.81,2019-03-22,19:36:00,Ewallet,407.44,4.76,20.37,9.20,Friday,March
+474-33-8305,C,Kano,Member,Male,"Fashion accessories",67.39,7,23.59,495.32,2019-03-23,13:23:00,Ewallet,471.73,4.76,23.59,6.90,Saturday,March
+477-24-6490,B,Lagos,Normal,Female,"Health and beauty",99.71,6,29.91,628.17,2019-02-26,16:52:00,Ewallet,598.26,4.76,29.91,7.90,Tuesday,February
+477-59-2456,C,Kano,Normal,Female,"Fashion accessories",45.44,7,15.90,333.98,2019-01-23,11:15:00,Cash,318.08,4.76,15.90,9.20,Wednesday,January
+478-06-7835,A,Abuja,Normal,Male,"Fashion accessories",89.69,1,4.48,94.17,2019-01-11,11:20:00,Ewallet,89.69,4.76,4.48,4.90,Friday,January
+479-26-8945,B,Lagos,Member,Female,"Sports and travel",16.49,2,1.65,34.63,2019-02-05,11:32:00,Ewallet,32.98,4.76,1.65,4.60,Tuesday,February
+480-63-2856,C,Kano,Normal,Male,"Food and beverages",19.25,8,7.70,161.70,2019-01-23,18:37:00,Ewallet,154.00,4.76,7.70,6.60,Wednesday,January
+483-71-1164,C,Kano,Normal,Female,"Health and beauty",81.3,6,24.39,512.19,2019-03-08,16:43:00,Ewallet,487.80,4.76,24.39,5.30,Friday,March
+484-22-8230,C,Kano,Member,Female,"Fashion accessories",51.89,7,18.16,381.39,2019-01-08,20:08:00,Cash,363.23,4.76,18.16,4.50,Tuesday,January
+489-64-4354,C,Kano,Normal,Male,"Fashion accessories",16.28,1,0.81,17.09,2019-03-09,15:36:00,Cash,16.28,4.76,0.81,5.00,Saturday,March
+490-29-1201,A,Abuja,Normal,Female,"Sports and travel",15.34,1,0.77,16.11,2019-01-06,11:09:00,Cash,15.34,4.76,0.77,6.50,Sunday,January
+490-95-0021,B,Lagos,Member,Female,"Food and beverages",33.21,10,16.61,348.71,2019-01-08,14:25:00,Ewallet,332.10,4.76,16.61,6.00,Tuesday,January
+497-36-0989,A,Abuja,Normal,Male,"Fashion accessories",51.94,3,7.79,163.61,2019-02-15,15:21:00,Cash,155.82,4.76,7.79,7.90,Friday,February
+497-37-6538,A,Abuja,Normal,Male,"Sports and travel",58.91,7,20.62,432.99,2019-01-17,15:15:00,Ewallet,412.37,4.76,20.62,9.70,Thursday,January
+498-41-1961,B,Lagos,Normal,Male,"Health and beauty",66.68,5,16.67,350.07,2019-02-20,18:01:00,Cash,333.40,4.76,16.67,7.60,Wednesday,February
+499-27-7781,B,Lagos,Normal,Female,"Food and beverages",53.21,8,21.28,446.96,2019-03-14,16:45:00,Ewallet,425.68,4.76,21.28,5.00,Thursday,March
+500-02-2261,C,Kano,Normal,Female,"Food and beverages",57.29,6,17.19,360.93,2019-03-21,17:04:00,Ewallet,343.74,4.76,17.19,5.90,Thursday,March
+501-61-1753,B,Lagos,Normal,Female,"Home and lifestyle",63.15,6,18.95,397.85,2019-01-03,20:24:00,Ewallet,378.90,4.76,18.95,9.80,Thursday,January
+503-21-4385,B,Lagos,Member,Male,"Health and beauty",39.91,3,5.99,125.72,2019-02-21,12:40:00,Ewallet,119.73,4.76,5.99,9.30,Thursday,February
+504-35-8843,A,Abuja,Normal,Male,"Sports and travel",42.47,1,2.12,44.59,2019-01-02,16:57:00,Cash,42.47,4.76,2.12,5.70,Wednesday,January
+505-02-0892,B,Lagos,Member,Male,"Health and beauty",42.57,8,17.03,357.59,2019-02-25,14:12:00,Ewallet,340.56,4.76,17.03,5.60,Monday,February
+509-10-0516,B,Lagos,Normal,Male,"Home and lifestyle",45.97,4,9.19,193.07,2019-02-09,12:02:00,Ewallet,183.88,4.76,9.19,5.10,Saturday,February
+509-29-3912,A,Abuja,Member,Female,"Sports and travel",38.72,9,17.42,365.90,2019-03-20,12:24:00,Ewallet,348.48,4.76,17.42,4.20,Wednesday,March
+510-79-0415,B,Lagos,Member,Female,"Sports and travel",23.08,6,6.92,145.40,2019-01-24,19:20:00,Ewallet,138.48,4.76,6.92,4.90,Thursday,January
+510-95-6347,B,Lagos,Member,Female,"Food and beverages",48.52,3,7.28,152.84,2019-03-05,18:17:00,Ewallet,145.56,4.76,7.28,4.00,Tuesday,March
+512-98-1403,A,Abuja,Member,Female,"Electronic accessories",26.48,3,3.97,83.41,2019-03-21,10:40:00,Ewallet,79.44,4.76,3.97,4.70,Thursday,March
+514-37-2845,B,Lagos,Normal,Male,"Fashion accessories",99.25,2,9.93,208.43,2019-03-20,13:02:00,Cash,198.50,4.76,9.93,9.00,Wednesday,March
+516-77-6464,C,Kano,Member,Female,"Health and beauty",10.16,5,2.54,53.34,2019-02-24,13:08:00,Ewallet,50.80,4.76,2.54,4.10,Sunday,February
+518-17-2983,A,Abuja,Normal,Female,"Fashion accessories",48.63,4,9.73,204.25,2019-02-04,15:44:00,Ewallet,194.52,4.76,9.73,7.60,Monday,February
+518-71-6847,B,Lagos,Member,Male,"Food and beverages",26.6,6,7.98,167.58,2019-02-26,15:10:00,Ewallet,159.60,4.76,7.98,4.90,Tuesday,February
+522-57-8364,A,Abuja,Member,Male,"Fashion accessories",51.34,8,20.54,431.26,2019-01-31,10:00:00,Ewallet,410.72,4.76,20.54,7.60,Thursday,January
+525-88-7307,B,Lagos,Member,Male,"Sports and travel",75.82,1,3.79,79.61,2019-01-31,13:19:00,Cash,75.82,4.76,3.79,5.80,Thursday,January
+526-86-8552,C,Kano,Member,Female,"Home and lifestyle",21.82,10,10.91,229.11,2019-01-07,17:36:00,Cash,218.20,4.76,10.91,7.10,Monday,January
+528-14-9470,A,Abuja,Member,Male,"Health and beauty",91.3,1,4.57,95.87,2019-02-14,14:42:00,Ewallet,91.30,4.76,4.57,9.20,Thursday,February
+528-87-5606,B,Lagos,Member,Female,"Electronic accessories",39.48,1,1.97,41.45,2019-02-12,19:43:00,Cash,39.48,4.76,1.97,6.50,Tuesday,February
+529-56-3974,B,Lagos,Member,Male,"Electronic accessories",25.51,4,5.10,107.14,2019-03-09,17:03:00,Cash,102.04,4.76,5.10,6.80,Saturday,March
+530-90-9855,A,Abuja,Member,Male,"Home and lifestyle",47.59,8,19.04,399.76,2019-01-01,14:47:00,Cash,380.72,4.76,19.04,5.70,Tuesday,January
+531-56-4728,A,Abuja,Normal,Male,"Home and lifestyle",80.08,3,12.01,252.25,2019-02-11,15:29:00,Cash,240.24,4.76,12.01,5.40,Monday,February
+531-80-1784,A,Abuja,Normal,Male,"Electronic accessories",26.02,7,9.11,191.25,2019-03-28,17:38:00,Cash,182.14,4.76,9.11,5.10,Thursday,March
+532-59-7201,B,Lagos,Member,Male,"Sports and travel",79.93,6,23.98,503.56,2019-01-31,14:04:00,Cash,479.58,4.76,23.98,5.50,Thursday,January
+533-33-5337,B,Lagos,Normal,Male,"Electronic accessories",79.39,10,39.70,833.60,2019-02-07,20:24:00,Cash,793.90,4.76,39.70,6.20,Thursday,February
+533-66-5566,B,Lagos,Normal,Female,"Home and lifestyle",51.07,7,17.87,375.36,2019-01-12,11:42:00,Cash,357.49,4.76,17.87,7.00,Saturday,January
+534-53-3526,A,Abuja,Normal,Female,"Sports and travel",94.76,4,18.95,397.99,2019-02-11,16:06:00,Ewallet,379.04,4.76,18.95,7.80,Monday,February
+537-72-0426,C,Kano,Member,Male,"Fashion accessories",70.99,10,35.50,745.40,2019-03-20,16:28:00,Cash,709.90,4.76,35.50,5.70,Wednesday,March
+538-22-0304,C,Kano,Normal,Male,"Electronic accessories",64.95,10,32.48,681.98,2019-03-24,18:27:00,Cash,649.50,4.76,32.48,5.20,Sunday,March
+539-21-7227,B,Lagos,Normal,Female,"Sports and travel",51.54,5,12.89,270.59,2019-01-26,17:45:00,Cash,257.70,4.76,12.89,4.20,Saturday,January
+541-08-3113,C,Kano,Normal,Male,"Food and beverages",65.97,8,26.39,554.15,2019-02-02,20:29:00,Cash,527.76,4.76,26.39,8.40,Saturday,February
+541-89-9860,C,Kano,Member,Female,"Fashion accessories",80.48,3,12.07,253.51,2019-02-15,12:31:00,Cash,241.44,4.76,12.07,8.10,Friday,February
+542-41-0513,B,Lagos,Member,Female,"Electronic accessories",57.49,4,11.50,241.46,2019-03-15,11:57:00,Cash,229.96,4.76,11.50,6.60,Friday,March
+544-55-9589,B,Lagos,Member,Female,"Electronic accessories",21.43,10,10.72,225.02,2019-01-28,11:51:00,Cash,214.30,4.76,10.72,6.20,Monday,January
+545-07-8534,C,Kano,Normal,Female,"Health and beauty",58.32,2,5.83,122.47,2019-02-14,12:42:00,Ewallet,116.64,4.76,5.83,6.00,Thursday,February
+546-80-2899,A,Abuja,Member,Male,"Home and lifestyle",37.69,2,3.77,79.15,2019-02-20,15:29:00,Ewallet,75.38,4.76,3.77,9.50,Wednesday,February
+548-48-3156,A,Abuja,Member,Female,"Food and beverages",83.34,2,8.33,175.01,2019-03-19,13:37:00,Cash,166.68,4.76,8.33,7.60,Tuesday,March
+549-03-9315,B,Lagos,Normal,Male,"Fashion accessories",94.87,8,37.95,796.91,2019-02-12,12:58:00,Ewallet,758.96,4.76,37.95,8.70,Tuesday,February
+549-59-1358,A,Abuja,Member,Male,"Sports and travel",88.63,3,13.29,279.18,2019-03-02,17:36:00,Ewallet,265.89,4.76,13.29,6.00,Saturday,March
+549-84-7482,B,Lagos,Normal,Female,"Sports and travel",90.28,9,40.63,853.15,2019-02-08,11:15:00,Ewallet,812.52,4.76,40.63,7.20,Friday,February
+549-96-4200,C,Kano,Member,Male,"Food and beverages",17.04,4,3.41,71.57,2019-03-08,20:15:00,Ewallet,68.16,4.76,3.41,7.00,Friday,March
+551-21-3069,C,Kano,Normal,Female,"Electronic accessories",23.07,9,10.38,218.01,2019-02-01,11:27:00,Cash,207.63,4.76,10.38,4.90,Friday,February
+554-42-2417,C,Kano,Normal,Female,"Sports and travel",95.44,10,47.72,1002.12,2019-01-09,13:45:00,Cash,954.40,4.76,47.72,5.20,Wednesday,January
+554-53-3790,B,Lagos,Normal,Male,"Sports and travel",37.02,6,11.11,233.23,2019-03-22,18:33:00,Cash,222.12,4.76,11.11,4.50,Friday,March
+554-53-8700,C,Kano,Member,Male,"Home and lifestyle",56.11,2,5.61,117.83,2019-02-02,10:11:00,Cash,112.22,4.76,5.61,6.30,Saturday,February
+556-72-8512,C,Kano,Normal,Male,"Home and lifestyle",22.96,1,1.15,24.11,2019-01-30,20:47:00,Cash,22.96,4.76,1.15,4.30,Wednesday,January
+556-86-3144,C,Kano,Member,Female,"Fashion accessories",74.29,1,3.71,78.00,2019-01-13,19:30:00,Cash,74.29,4.76,3.71,5.00,Sunday,January
+556-97-7101,C,Kano,Normal,Female,"Electronic accessories",63.22,2,6.32,132.76,2019-01-01,15:51:00,Cash,126.44,4.76,6.32,8.50,Tuesday,January
+558-60-5016,A,Abuja,Normal,Female,"Home and lifestyle",33.3,9,14.99,314.69,2019-03-04,15:27:00,Ewallet,299.70,4.76,14.99,7.20,Monday,March
+558-80-4082,C,Kano,Normal,Male,"Electronic accessories",27.85,7,9.75,204.70,2019-03-14,17:20:00,Ewallet,194.95,4.76,9.75,6.00,Thursday,March
+559-61-5987,B,Lagos,Normal,Female,"Health and beauty",17.75,1,0.89,18.64,2019-01-14,10:38:00,Cash,17.75,4.76,0.89,8.60,Monday,January
+559-98-9873,A,Abuja,Member,Female,"Fashion accessories",53.65,7,18.78,394.33,2019-02-10,12:56:00,Ewallet,375.55,4.76,18.78,5.20,Sunday,February
+560-30-5617,B,Lagos,Normal,Female,"Sports and travel",24.77,5,6.19,130.04,2019-03-24,18:27:00,Cash,123.85,4.76,6.19,8.50,Sunday,March
+560-49-6611,A,Abuja,Member,Female,"Sports and travel",45.58,1,2.28,47.86,2019-02-07,14:13:00,Cash,45.58,4.76,2.28,9.80,Thursday,February
+562-12-5430,A,Abuja,Member,Female,"Fashion accessories",88.15,3,13.22,277.67,2019-01-18,10:11:00,Ewallet,264.45,4.76,13.22,7.90,Friday,January
+563-36-9814,A,Abuja,Member,Male,"Electronic accessories",76.82,1,3.84,80.66,2019-02-13,18:27:00,Ewallet,76.82,4.76,3.84,7.20,Wednesday,February
+563-47-4072,B,Lagos,Normal,Female,"Health and beauty",55.81,6,16.74,351.60,2019-01-22,11:52:00,Cash,334.86,4.76,16.74,9.90,Tuesday,January
+563-91-7120,A,Abuja,Normal,Female,"Fashion accessories",61.77,5,15.44,324.29,2019-03-08,13:21:00,Cash,308.85,4.76,15.44,6.70,Friday,March
+565-17-3836,A,Abuja,Member,Female,"Health and beauty",47.67,4,9.53,200.21,2019-03-12,14:21:00,Cash,190.68,4.76,9.53,9.10,Tuesday,March
+565-67-6697,B,Lagos,Member,Male,"Home and lifestyle",27,9,12.15,255.15,2019-03-02,14:16:00,Cash,243.00,4.76,12.15,4.80,Saturday,March
+565-80-5980,C,Kano,Member,Female,"Home and lifestyle",47.38,4,9.48,199.00,2019-01-23,10:25:00,Cash,189.52,4.76,9.48,7.10,Wednesday,January
+565-91-4567,B,Lagos,Normal,Male,"Health and beauty",10.75,8,4.30,90.30,2019-03-15,14:38:00,Ewallet,86.00,4.76,4.30,6.20,Friday,March
+566-19-5475,B,Lagos,Normal,Male,"Fashion accessories",47.97,7,16.79,352.58,2019-01-07,20:52:00,Cash,335.79,4.76,16.79,6.20,Monday,January
+566-71-1091,A,Abuja,Normal,Male,"Fashion accessories",77.02,5,19.26,404.36,2019-02-03,15:59:00,Cash,385.10,4.76,19.26,5.50,Sunday,February
+568-88-3448,A,Abuja,Normal,Male,"Health and beauty",25,1,1.25,26.25,2019-03-03,15:09:00,Ewallet,25.00,4.76,1.25,5.50,Sunday,March
+569-71-4390,B,Lagos,Normal,Male,"Sports and travel",21.87,2,2.19,45.93,2019-01-25,14:29:00,Ewallet,43.74,4.76,2.19,6.90,Friday,January
+571-94-0759,B,Lagos,Member,Female,"Food and beverages",74.6,10,37.30,783.30,2019-01-08,20:55:00,Cash,746.00,4.76,37.30,9.50,Tuesday,January
+573-58-9734,B,Lagos,Normal,Female,"Fashion accessories",30.37,3,4.56,95.67,2019-03-28,13:41:00,Ewallet,91.11,4.76,4.56,5.10,Thursday,March
+573-98-8548,C,Kano,Member,Female,"Fashion accessories",31.9,1,1.60,33.50,2019-01-05,12:40:00,Ewallet,31.90,4.76,1.60,9.10,Saturday,January
+574-22-5561,C,Kano,Member,Female,"Fashion accessories",82.63,10,41.32,867.62,2019-03-19,17:08:00,Ewallet,826.30,4.76,41.32,7.90,Tuesday,March
+574-31-8277,B,Lagos,Member,Male,"Fashion accessories",33.63,1,1.68,35.31,2019-03-20,19:55:00,Cash,33.63,4.76,1.68,5.60,Wednesday,March
+574-57-9721,C,Kano,Normal,Male,"Food and beverages",43.27,2,4.33,90.87,2019-03-08,16:53:00,Ewallet,86.54,4.76,4.33,5.70,Friday,March
+574-80-1489,B,Lagos,Member,Female,"Food and beverages",62.85,4,12.57,263.97,2019-02-25,13:22:00,Ewallet,251.40,4.76,12.57,8.70,Monday,February
+575-30-8091,A,Abuja,Normal,Male,"Sports and travel",72.5,8,29.00,609.00,2019-03-16,19:25:00,Ewallet,580.00,4.76,29.00,9.20,Saturday,March
+575-67-1508,A,Abuja,Normal,Male,"Electronic accessories",38.6,1,1.93,40.53,2019-01-29,11:26:00,Ewallet,38.60,4.76,1.93,6.70,Tuesday,January
+576-31-4774,B,Lagos,Normal,Female,"Health and beauty",73.41,3,11.01,231.24,2019-03-02,13:10:00,Ewallet,220.23,4.76,11.01,4.00,Saturday,March
+577-34-7579,C,Kano,Member,Male,"Food and beverages",50.49,9,22.72,477.13,2019-01-10,17:16:00,Cash,454.41,4.76,22.72,5.40,Thursday,January
+578-80-7669,B,Lagos,Normal,Male,"Sports and travel",74.97,1,3.75,78.72,2019-03-16,16:58:00,Cash,74.97,4.76,3.75,5.60,Saturday,March
+582-52-8065,B,Lagos,Normal,Female,"Fashion accessories",54.31,9,24.44,513.23,2019-02-22,10:49:00,Cash,488.79,4.76,24.44,8.90,Friday,February
+583-41-4548,C,Kano,Normal,Male,"Home and lifestyle",16.67,7,5.83,122.52,2019-02-07,11:36:00,Ewallet,116.69,4.76,5.83,7.40,Thursday,February
+583-72-1480,C,Kano,Member,Male,"Electronic accessories",37.06,4,7.41,155.65,2019-01-31,16:24:00,Ewallet,148.24,4.76,7.41,9.70,Thursday,January
+584-66-4073,C,Kano,Normal,Male,"Fashion accessories",56.5,1,2.83,59.33,2019-03-13,15:45:00,Ewallet,56.50,4.76,2.83,9.60,Wednesday,March
+585-03-5943,B,Lagos,Normal,Male,"Health and beauty",18.11,10,9.06,190.16,2019-03-13,11:46:00,Ewallet,181.10,4.76,9.06,5.90,Wednesday,March
+585-11-6748,B,Lagos,Member,Male,"Sports and travel",96.8,3,14.52,304.92,2019-03-15,13:05:00,Cash,290.40,4.76,14.52,5.30,Friday,March
+585-90-0249,A,Abuja,Member,Male,"Electronic accessories",73.26,1,3.66,76.92,2019-01-27,18:08:00,Ewallet,73.26,4.76,3.66,9.70,Sunday,January
+587-03-7455,C,Kano,Member,Female,"Fashion accessories",97.79,7,34.23,718.76,2019-02-16,17:30:00,Ewallet,684.53,4.76,34.23,4.90,Saturday,February
+587-73-4862,A,Abuja,Member,Female,"Health and beauty",10.69,5,2.67,56.12,2019-03-26,11:07:00,Ewallet,53.45,4.76,2.67,7.60,Tuesday,March
+588-01-7461,C,Kano,Normal,Female,"Food and beverages",33.98,9,15.29,321.11,2019-03-24,10:43:00,Cash,305.82,4.76,15.29,4.20,Sunday,March
+588-47-8641,A,Abuja,Member,Male,"Fashion accessories",56.04,10,28.02,588.42,2019-01-14,19:30:00,Ewallet,560.40,4.76,28.02,4.40,Monday,January
+592-34-6155,C,Kano,Normal,Male,"Food and beverages",31.77,4,6.35,133.43,2019-01-14,14:43:00,Ewallet,127.08,4.76,6.35,6.20,Monday,January
+592-46-1692,C,Kano,Member,Female,"Food and beverages",36.77,7,12.87,270.26,2019-01-11,20:10:00,Cash,257.39,4.76,12.87,7.40,Friday,January
+593-14-4239,B,Lagos,Normal,Female,"Home and lifestyle",95.46,8,38.18,801.86,2019-03-05,19:40:00,Ewallet,763.68,4.76,38.18,4.70,Tuesday,March
+593-95-4461,C,Kano,Member,Male,"Home and lifestyle",74.86,1,3.74,78.60,2019-03-24,14:49:00,Cash,74.86,4.76,3.74,6.90,Sunday,March
+594-34-4444,A,Abuja,Normal,Male,"Electronic accessories",97.16,1,4.86,102.02,2019-03-08,20:38:00,Ewallet,97.16,4.76,4.86,7.20,Friday,March
+595-27-4851,A,Abuja,Normal,Female,"Fashion accessories",54.28,7,19.00,398.96,2019-01-27,18:05:00,Ewallet,379.96,4.76,19.00,9.30,Sunday,January
+595-86-2894,C,Kano,Member,Male,"Fashion accessories",96.98,4,19.40,407.32,2019-02-06,17:20:00,Ewallet,387.92,4.76,19.40,9.40,Wednesday,February
+597-78-7908,C,Kano,Normal,Male,"Fashion accessories",90.22,3,13.53,284.19,2019-02-18,19:39:00,Cash,270.66,4.76,13.53,6.20,Monday,February
+598-06-7312,B,Lagos,Member,Male,"Fashion accessories",91.35,1,4.57,95.92,2019-02-16,15:42:00,Cash,91.35,4.76,4.57,6.80,Saturday,February
+598-47-9715,C,Kano,Normal,Male,"Electronic accessories",84.07,4,16.81,353.09,2019-03-07,16:54:00,Ewallet,336.28,4.76,16.81,4.40,Thursday,March
+602-16-6955,B,Lagos,Normal,Female,"Sports and travel",76.6,10,38.30,804.30,2019-01-24,18:10:00,Ewallet,766.00,4.76,38.30,6.00,Thursday,January
+603-07-0961,C,Kano,Member,Male,"Electronic accessories",74.79,5,18.70,392.65,2019-01-10,11:34:00,Cash,373.95,4.76,18.70,4.90,Thursday,January
+604-70-6476,A,Abuja,Member,Male,"Fashion accessories",17.94,5,4.49,94.19,2019-01-23,14:04:00,Ewallet,89.70,4.76,4.49,6.80,Wednesday,January
+605-03-2706,A,Abuja,Normal,Female,"Health and beauty",15.8,3,2.37,49.77,2019-03-25,18:02:00,Cash,47.40,4.76,2.37,9.50,Monday,March
+605-72-4132,C,Kano,Normal,Female,"Food and beverages",94.47,8,37.79,793.55,2019-02-27,15:12:00,Cash,755.76,4.76,37.79,9.10,Wednesday,February
+605-83-1050,B,Lagos,Normal,Male,"Fashion accessories",27.18,2,2.72,57.08,2019-03-15,16:26:00,Ewallet,54.36,4.76,2.72,4.30,Friday,March
+608-04-3797,B,Lagos,Member,Female,"Health and beauty",25.32,8,10.13,212.69,2019-03-05,20:24:00,Ewallet,202.56,4.76,10.13,8.70,Tuesday,March
+608-05-3804,B,Lagos,Member,Male,"Electronic accessories",39.75,1,1.99,41.74,2019-02-25,20:19:00,Cash,39.75,4.76,1.99,6.10,Monday,February
+613-59-9758,C,Kano,Normal,Female,"Sports and travel",14.36,10,7.18,150.78,2019-01-27,14:28:00,Cash,143.60,4.76,7.18,5.40,Sunday,January
+616-24-2851,B,Lagos,Member,Female,"Fashion accessories",17.87,4,3.57,75.05,2019-03-22,14:42:00,Ewallet,71.48,4.76,3.57,6.50,Friday,March
+617-15-4209,C,Kano,Member,Male,"Health and beauty",15.37,2,1.54,32.28,2019-03-16,19:47:00,Cash,30.74,4.76,1.54,7.20,Saturday,March
+620-02-2046,C,Kano,Normal,Male,"Home and lifestyle",69.4,2,6.94,145.74,2019-01-27,19:48:00,Ewallet,138.80,4.76,6.94,9.00,Sunday,January
+622-20-1945,C,Kano,Normal,Female,"Health and beauty",39.42,1,1.97,41.39,2019-01-18,15:08:00,Cash,39.42,4.76,1.97,8.40,Friday,January
+626-43-7888,C,Kano,Normal,Female,"Fashion accessories",60.41,8,24.16,507.44,2019-02-07,12:23:00,Ewallet,483.28,4.76,24.16,9.60,Thursday,February
+627-95-3243,B,Lagos,Member,Female,"Home and lifestyle",77.68,9,34.96,734.08,2019-02-04,13:21:00,Ewallet,699.12,4.76,34.96,9.80,Monday,February
+628-90-8624,B,Lagos,Member,Male,"Health and beauty",82.58,10,41.29,867.09,2019-03-14,14:41:00,Cash,825.80,4.76,41.29,5.00,Thursday,March
+629-42-4133,C,Kano,Normal,Male,"Health and beauty",21.8,8,8.72,183.12,2019-02-19,19:24:00,Cash,174.40,4.76,8.72,8.30,Tuesday,February
+630-74-5166,A,Abuja,Normal,Male,"Sports and travel",62.13,6,18.64,391.42,2019-03-22,20:19:00,Cash,372.78,4.76,18.64,7.40,Friday,March
+632-32-4574,B,Lagos,Normal,Male,"Sports and travel",75.92,8,30.37,637.73,2019-03-20,14:14:00,Cash,607.36,4.76,30.37,5.50,Wednesday,March
+633-91-1052,A,Abuja,Normal,Female,"Home and lifestyle",12.03,2,1.20,25.26,2019-01-27,15:51:00,Cash,24.06,4.76,1.20,5.10,Sunday,January
+635-28-5728,A,Abuja,Normal,Male,"Health and beauty",56,3,8.40,176.40,2019-02-28,19:33:00,Ewallet,168.00,4.76,8.40,4.80,Thursday,February
+635-40-6220,A,Abuja,Normal,Male,"Health and beauty",89.6,8,35.84,752.64,2019-02-07,11:28:00,Ewallet,716.80,4.76,35.84,6.60,Thursday,February
+636-17-0325,B,Lagos,Normal,Male,"Health and beauty",62.57,4,12.51,262.79,2019-02-25,18:37:00,Cash,250.28,4.76,12.51,9.50,Monday,February
+636-48-8204,A,Abuja,Normal,Male,"Electronic accessories",34.56,5,8.64,181.44,2019-02-17,11:15:00,Ewallet,172.80,4.76,8.64,9.90,Sunday,February
+636-98-3364,B,Lagos,Member,Female,"Electronic accessories",26.26,3,3.94,82.72,2019-03-02,12:36:00,Ewallet,78.78,4.76,3.94,6.30,Saturday,March
+639-76-1242,C,Kano,Normal,Male,"Food and beverages",40.52,5,10.13,212.73,2019-02-03,15:19:00,Cash,202.60,4.76,10.13,4.50,Sunday,February
+640-48-5028,B,Lagos,Member,Female,"Home and lifestyle",88.39,9,39.78,835.29,2019-03-02,12:40:00,Cash,795.51,4.76,39.78,6.30,Saturday,March
+640-49-2076,B,Lagos,Normal,Male,"Sports and travel",83.78,8,33.51,703.75,2019-01-10,14:49:00,Cash,670.24,4.76,33.51,5.10,Thursday,January
+641-43-2399,B,Lagos,Normal,Male,"Home and lifestyle",25.55,4,5.11,107.31,2019-01-26,20:23:00,Ewallet,102.20,4.76,5.11,5.70,Saturday,January
+641-62-7288,B,Lagos,Normal,Male,"Home and lifestyle",99.92,6,29.98,629.50,2019-03-24,13:33:00,Ewallet,599.52,4.76,29.98,7.10,Sunday,March
+641-96-3695,C,Kano,Member,Female,"Fashion accessories",43.46,6,13.04,273.80,2019-02-07,17:55:00,Ewallet,260.76,4.76,13.04,8.50,Thursday,February
+642-30-6693,B,Lagos,Normal,Female,"Sports and travel",54.51,6,16.35,343.41,2019-03-17,13:54:00,Ewallet,327.06,4.76,16.35,7.80,Sunday,March
+642-32-2990,A,Abuja,Normal,Female,"Food and beverages",10.96,10,5.48,115.08,2019-02-02,20:48:00,Ewallet,109.60,4.76,5.48,6.00,Saturday,February
+642-61-4706,B,Lagos,Member,Male,"Food and beverages",93.4,2,9.34,196.14,2019-03-30,16:34:00,Cash,186.80,4.76,9.34,5.50,Saturday,March
+643-38-7867,A,Abuja,Normal,Male,"Home and lifestyle",97.94,1,4.90,102.84,2019-03-07,11:44:00,Ewallet,97.94,4.76,4.90,6.90,Thursday,March
+645-44-1170,A,Abuja,Member,Male,"Home and lifestyle",58.07,9,26.13,548.76,2019-01-19,20:07:00,Ewallet,522.63,4.76,26.13,4.30,Saturday,January
+645-78-8093,A,Abuja,Normal,Female,"Sports and travel",93.14,2,9.31,195.59,2019-01-20,18:09:00,Ewallet,186.28,4.76,9.31,4.10,Sunday,January
+647-50-1224,A,Abuja,Normal,Female,"Fashion accessories",29.42,10,14.71,308.91,2019-01-12,16:23:00,Ewallet,294.20,4.76,14.71,8.90,Saturday,January
+648-83-1321,A,Abuja,Member,Male,"Home and lifestyle",63.56,10,31.78,667.38,2019-01-16,17:59:00,Cash,635.60,4.76,31.78,4.30,Wednesday,January
+648-94-3045,C,Kano,Normal,Male,"Health and beauty",58.95,10,29.48,618.98,2019-02-07,14:27:00,Ewallet,589.50,4.76,29.48,8.10,Thursday,February
+649-11-3678,C,Kano,Normal,Female,"Food and beverages",22.93,9,10.32,216.69,2019-02-26,20:26:00,Cash,206.37,4.76,10.32,5.50,Tuesday,February
+649-29-6775,B,Lagos,Normal,Male,"Fashion accessories",33.52,1,1.68,35.20,2019-02-08,15:31:00,Cash,33.52,4.76,1.68,6.70,Friday,February
+651-88-7328,A,Abuja,Normal,Female,"Fashion accessories",65.74,9,29.58,621.24,2019-01-01,13:55:00,Cash,591.66,4.76,29.58,7.70,Tuesday,January
+652-49-6720,C,Kano,Member,Female,"Electronic accessories",60.95,1,3.05,64.00,2019-02-18,11:40:00,Ewallet,60.95,4.76,3.05,5.90,Monday,February
+655-07-2265,A,Abuja,Normal,Male,"Electronic accessories",78.31,3,11.75,246.68,2019-03-05,16:38:00,Ewallet,234.93,4.76,11.75,5.40,Tuesday,March
+655-85-5130,B,Lagos,Member,Female,"Fashion accessories",38.3,4,7.66,160.86,2019-03-13,19:22:00,Cash,153.20,4.76,7.66,5.70,Wednesday,March
+658-66-3967,C,Kano,Normal,Male,"Health and beauty",53.19,7,18.62,390.95,2019-01-14,15:42:00,Ewallet,372.33,4.76,18.62,5.00,Monday,January
+659-65-8956,B,Lagos,Member,Male,"Fashion accessories",51.36,1,2.57,53.93,2019-01-16,15:26:00,Ewallet,51.36,4.76,2.57,5.20,Wednesday,January
+660-29-7083,C,Kano,Normal,Male,"Electronic accessories",55.87,10,27.94,586.64,2019-01-15,15:01:00,Cash,558.70,4.76,27.94,5.80,Tuesday,January
+662-72-2873,A,Abuja,Normal,Female,"Food and beverages",40.94,5,10.24,214.94,2019-01-06,13:58:00,Ewallet,204.70,4.76,10.24,9.90,Sunday,January
+663-86-9076,C,Kano,Member,Female,"Food and beverages",68.54,8,27.42,575.74,2019-01-08,15:57:00,Ewallet,548.32,4.76,27.42,8.50,Tuesday,January
+665-63-9737,B,Lagos,Normal,Male,"Fashion accessories",52.42,3,7.86,165.12,2019-02-27,17:36:00,Ewallet,157.26,4.76,7.86,7.50,Wednesday,February
+667-23-5919,A,Abuja,Member,Female,"Fashion accessories",96.7,5,24.18,507.68,2019-01-14,12:52:00,Ewallet,483.50,4.76,24.18,7.00,Monday,January
+667-92-0055,A,Abuja,Member,Male,"Health and beauty",99.83,6,29.95,628.93,2019-03-04,15:02:00,Ewallet,598.98,4.76,29.95,8.50,Monday,March
+674-15-9296,A,Abuja,Normal,Male,"Sports and travel",37.14,5,9.29,194.99,2019-01-08,13:05:00,Ewallet,185.70,4.76,9.29,5.00,Tuesday,January
+674-56-6360,A,Abuja,Normal,Male,"Electronic accessories",95.15,1,4.76,99.91,2019-03-22,14:00:00,Cash,95.15,4.76,4.76,6.00,Friday,March
+676-10-2200,B,Lagos,Member,Male,"Fashion accessories",53.78,1,2.69,56.47,2019-02-03,20:13:00,Ewallet,53.78,4.76,2.69,4.70,Sunday,February
+676-39-6028,A,Abuja,Member,Female,"Electronic accessories",64.44,5,16.11,338.31,2019-03-30,17:04:00,Cash,322.20,4.76,16.11,6.60,Saturday,March
+677-11-0152,C,Kano,Normal,Female,"Food and beverages",93.26,9,41.97,881.31,2019-01-16,18:08:00,Cash,839.34,4.76,41.97,8.80,Wednesday,January
+678-79-0726,C,Kano,Member,Female,"Sports and travel",90.63,9,40.78,856.45,2019-01-18,15:28:00,Cash,815.67,4.76,40.78,5.10,Friday,January
+685-64-1609,A,Abuja,Member,Female,"Fashion accessories",30.14,10,15.07,316.47,2019-02-10,12:28:00,Ewallet,301.40,4.76,15.07,9.20,Sunday,February
+686-41-0932,B,Lagos,Normal,Female,"Fashion accessories",34.7,2,3.47,72.87,2019-03-13,19:48:00,Ewallet,69.40,4.76,3.47,8.20,Wednesday,March
+687-15-1097,C,Kano,Member,Female,"Health and beauty",21.12,2,2.11,44.35,2019-01-03,19:17:00,Cash,42.24,4.76,2.11,9.70,Thursday,January
+689-05-1884,A,Abuja,Member,Male,"Health and beauty",48.63,10,24.32,510.62,2019-03-04,12:44:00,Cash,486.30,4.76,24.32,8.80,Monday,March
+689-16-9784,C,Kano,Normal,Male,"Food and beverages",46.77,6,14.03,294.65,2019-03-11,13:37:00,Cash,280.62,4.76,14.03,6.00,Monday,March
+690-01-6631,B,Lagos,Normal,Male,"Fashion accessories",17.49,10,8.75,183.65,2019-02-22,18:35:00,Ewallet,174.90,4.76,8.75,6.60,Friday,February
+692-27-8933,B,Lagos,Normal,Female,"Sports and travel",57.95,6,17.39,365.09,2019-02-24,13:02:00,Cash,347.70,4.76,17.39,5.20,Sunday,February
+695-09-5146,B,Lagos,Member,Female,"Food and beverages",98.79,3,14.82,311.19,2019-02-23,20:00:00,Ewallet,296.37,4.76,14.82,6.40,Saturday,February
+695-28-6250,A,Abuja,Normal,Female,"Sports and travel",43.06,5,10.77,226.07,2019-02-04,16:38:00,Ewallet,215.30,4.76,10.77,7.70,Monday,February
+695-51-0018,B,Lagos,Normal,Female,"Sports and travel",34.84,4,6.97,146.33,2019-02-10,18:36:00,Cash,139.36,4.76,6.97,7.40,Sunday,February
+696-90-2548,A,Abuja,Normal,Male,"Sports and travel",25.84,3,3.88,81.40,2019-03-10,18:55:00,Ewallet,77.52,4.76,3.88,6.60,Sunday,March
+699-14-3026,C,Kano,Normal,Male,"Electronic accessories",85.39,7,29.89,627.62,2019-03-25,18:30:00,Ewallet,597.73,4.76,29.89,4.10,Monday,March
+701-23-5550,B,Lagos,Member,Male,"Home and lifestyle",38.81,4,7.76,163.00,2019-03-19,13:40:00,Ewallet,155.24,4.76,7.76,4.90,Tuesday,March
+701-69-8742,B,Lagos,Normal,Male,"Sports and travel",34.37,10,17.19,360.89,2019-03-16,10:11:00,Ewallet,343.70,4.76,17.19,6.70,Saturday,March
+702-83-5291,C,Kano,Member,Male,"Fashion accessories",99.82,9,44.92,943.30,2019-03-27,10:43:00,Cash,898.38,4.76,44.92,6.60,Wednesday,March
+704-11-6354,A,Abuja,Member,Male,"Home and lifestyle",58.9,8,23.56,494.76,2019-01-06,11:23:00,Cash,471.20,4.76,23.56,8.90,Sunday,January
+704-48-3927,A,Abuja,Member,Male,"Electronic accessories",88.67,10,44.34,931.04,2019-01-12,14:50:00,Ewallet,886.70,4.76,44.34,7.30,Saturday,January
+706-36-6154,A,Abuja,Member,Male,"Home and lifestyle",19.36,9,8.71,182.95,2019-01-18,18:43:00,Ewallet,174.24,4.76,8.71,8.70,Friday,January
+707-32-7409,B,Lagos,Member,Female,"Sports and travel",95.54,4,19.11,401.27,2019-02-26,11:58:00,Ewallet,382.16,4.76,19.11,4.50,Tuesday,February
+709-58-4068,B,Lagos,Normal,Female,"Fashion accessories",41.09,10,20.55,431.45,2019-02-28,14:42:00,Cash,410.90,4.76,20.55,7.30,Thursday,February
+711-31-1234,B,Lagos,Normal,Female,"Electronic accessories",95.64,4,19.13,401.69,2019-03-16,18:51:00,Cash,382.56,4.76,19.13,7.90,Saturday,March
+712-39-0363,A,Abuja,Member,Male,"Food and beverages",41.66,6,12.50,262.46,2019-01-02,15:24:00,Ewallet,249.96,4.76,12.50,5.60,Wednesday,January
+714-02-3114,C,Kano,Normal,Female,"Sports and travel",98.8,2,9.88,207.48,2019-02-21,11:39:00,Cash,197.60,4.76,9.88,7.70,Thursday,February
+715-20-1673,B,Lagos,Normal,Male,"Electronic accessories",28.38,5,7.10,149.00,2019-03-06,20:57:00,Cash,141.90,4.76,7.10,9.40,Wednesday,March
+716-39-1409,B,Lagos,Normal,Male,"Health and beauty",30.35,7,10.62,223.07,2019-03-19,18:19:00,Cash,212.45,4.76,10.62,8.00,Tuesday,March
+717-96-4189,C,Kano,Normal,Female,"Electronic accessories",35.49,6,10.65,223.59,2019-02-02,12:40:00,Cash,212.94,4.76,10.65,4.10,Saturday,February
+719-76-3868,C,Kano,Member,Male,"Food and beverages",94.26,4,18.85,395.89,2019-03-12,16:30:00,Cash,377.04,4.76,18.85,8.60,Tuesday,March
+719-89-8991,A,Abuja,Member,Female,"Sports and travel",91.41,5,22.85,479.90,2019-02-25,16:03:00,Ewallet,457.05,4.76,22.85,7.10,Monday,February
+720-72-2436,A,Abuja,Normal,Male,"Food and beverages",66.52,4,13.30,279.38,2019-03-02,18:14:00,Ewallet,266.08,4.76,13.30,6.90,Saturday,March
+721-86-6247,A,Abuja,Normal,Female,"Home and lifestyle",63.42,8,25.37,532.73,2019-03-11,12:55:00,Ewallet,507.36,4.76,25.37,7.40,Monday,March
+725-32-9708,B,Lagos,Member,Female,"Fashion accessories",68.71,4,13.74,288.58,2019-01-04,19:01:00,Cash,274.84,4.76,13.74,4.10,Friday,January
+725-54-0677,C,Kano,Member,Male,"Health and beauty",85.6,7,29.96,629.16,2019-03-02,13:50:00,Cash,599.20,4.76,29.96,5.30,Saturday,March
+725-96-3778,C,Kano,Member,Female,"Home and lifestyle",89.25,8,35.70,749.70,2019-01-20,10:13:00,Cash,714.00,4.76,35.70,4.70,Sunday,January
+726-27-2396,A,Abuja,Normal,Female,"Health and beauty",77.5,5,19.38,406.88,2019-01-24,20:36:00,Ewallet,387.50,4.76,19.38,4.30,Thursday,January
+726-29-6793,A,Abuja,Member,Male,"Electronic accessories",24.18,8,9.67,203.11,2019-01-28,20:54:00,Ewallet,193.44,4.76,9.67,9.80,Monday,January
+727-02-1313,A,Abuja,Member,Male,"Food and beverages",31.84,1,1.59,33.43,2019-02-09,13:22:00,Cash,31.84,4.76,1.59,7.70,Saturday,February
+727-17-0390,A,Abuja,Normal,Female,"Food and beverages",63.61,5,15.90,333.95,2019-03-16,12:43:00,Ewallet,318.05,4.76,15.90,4.80,Saturday,March
+727-46-3608,B,Lagos,Member,Female,"Food and beverages",20.01,9,9.00,189.09,2019-02-06,15:47:00,Ewallet,180.09,4.76,9.00,4.10,Wednesday,February
+727-75-6477,C,Kano,Normal,Male,"Electronic accessories",28.84,4,5.77,121.13,2019-03-29,14:44:00,Cash,115.36,4.76,5.77,6.40,Friday,March
+728-47-9078,C,Kano,Member,Male,"Food and beverages",59.59,4,11.92,250.28,2019-01-19,12:46:00,Cash,238.36,4.76,11.92,9.80,Saturday,January
+728-88-7867,C,Kano,Member,Female,"Home and lifestyle",75.53,4,15.11,317.23,2019-03-19,15:52:00,Ewallet,302.12,4.76,15.11,8.30,Tuesday,March
+729-06-2010,B,Lagos,Member,Male,"Health and beauty",80.47,9,36.21,760.44,2019-01-06,11:18:00,Cash,724.23,4.76,36.21,9.20,Sunday,January
+729-09-9681,A,Abuja,Member,Male,"Home and lifestyle",25.91,6,7.77,163.23,2019-02-05,10:16:00,Ewallet,155.46,4.76,7.77,8.70,Tuesday,February
+730-50-9884,C,Kano,Normal,Female,"Sports and travel",83.06,7,29.07,610.49,2019-03-05,14:31:00,Ewallet,581.42,4.76,29.07,4.00,Tuesday,March
+730-70-9830,C,Kano,Normal,Female,"Home and lifestyle",70.11,6,21.03,441.69,2019-03-14,17:54:00,Ewallet,420.66,4.76,21.03,5.20,Thursday,March
+731-14-2199,A,Abuja,Member,Female,"Home and lifestyle",35.54,10,17.77,373.17,2019-01-04,13:34:00,Ewallet,355.40,4.76,17.77,7.00,Friday,January
+731-59-7531,B,Lagos,Member,Male,"Health and beauty",72.57,8,29.03,609.59,2019-03-30,17:58:00,Cash,580.56,4.76,29.03,4.60,Saturday,March
+732-04-5373,B,Lagos,Member,Male,"Home and lifestyle",46.47,4,9.29,195.17,2019-02-08,10:53:00,Cash,185.88,4.76,9.29,7.00,Friday,February
+733-01-9107,B,Lagos,Normal,Male,"Home and lifestyle",82.7,6,24.81,521.01,2019-03-05,18:14:00,Cash,496.20,4.76,24.81,7.40,Tuesday,March
+733-29-1227,C,Kano,Normal,Male,"Home and lifestyle",55.61,7,19.46,408.73,2019-03-23,12:41:00,Cash,389.27,4.76,19.46,8.50,Saturday,March
+733-33-4967,C,Kano,Normal,Male,"Electronic accessories",20.85,8,8.34,175.14,2019-03-03,19:17:00,Cash,166.80,4.76,8.34,6.30,Sunday,March
+735-06-4124,C,Kano,Normal,Male,"Food and beverages",48.61,1,2.43,51.04,2019-02-25,15:31:00,Cash,48.61,4.76,2.43,4.40,Monday,February
+735-32-9839,C,Kano,Member,Male,"Fashion accessories",98.7,8,39.48,829.08,2019-01-31,10:36:00,Ewallet,789.60,4.76,39.48,8.50,Thursday,January
+740-11-5257,C,Kano,Normal,Male,"Electronic accessories",24.74,10,12.37,259.77,2019-02-24,16:44:00,Cash,247.40,4.76,12.37,7.10,Sunday,February
+740-22-2500,C,Kano,Normal,Female,"Electronic accessories",84.05,3,12.61,264.76,2019-01-23,13:29:00,Cash,252.15,4.76,12.61,9.80,Wednesday,January
+741-73-3559,B,Lagos,Normal,Male,"Sports and travel",67.27,5,16.82,353.17,2019-02-27,17:27:00,Cash,336.35,4.76,16.82,6.90,Wednesday,February
+742-04-5161,A,Abuja,Member,Male,"Home and lifestyle",72.78,10,36.39,764.19,2019-02-03,17:24:00,Cash,727.80,4.76,36.39,7.30,Sunday,February
+743-04-1105,B,Lagos,Member,Male,"Health and beauty",97.22,9,43.75,918.73,2019-03-30,14:43:00,Ewallet,874.98,4.76,43.75,6.00,Saturday,March
+743-88-1662,C,Kano,Normal,Male,"Sports and travel",95.49,7,33.42,701.85,2019-02-22,18:17:00,Ewallet,668.43,4.76,33.42,8.70,Friday,February
+744-02-5987,A,Abuja,Member,Male,"Home and lifestyle",78.38,6,23.51,493.79,2019-01-10,14:16:00,Ewallet,470.28,4.76,23.51,5.80,Thursday,January
+744-09-5786,B,Lagos,Normal,Male,"Electronic accessories",22.01,6,6.60,138.66,2019-01-02,18:50:00,Cash,132.06,4.76,6.60,7.60,Wednesday,January
+744-82-9138,C,Kano,Normal,Male,"Fashion accessories",86.13,2,8.61,180.87,2019-02-07,17:59:00,Cash,172.26,4.76,8.61,8.20,Thursday,February
+745-71-3520,A,Abuja,Member,Female,"Electronic accessories",25.22,7,8.83,185.37,2019-02-04,10:23:00,Cash,176.54,4.76,8.83,8.20,Monday,February
+745-74-0715,A,Abuja,Normal,Male,"Electronic accessories",58.03,2,5.80,121.86,2019-03-10,20:46:00,Ewallet,116.06,4.76,5.80,8.80,Sunday,March
+746-19-0921,C,Kano,Normal,Male,"Food and beverages",21.58,1,1.08,22.66,2019-02-09,10:02:00,Ewallet,21.58,4.76,1.08,7.20,Saturday,February
+747-58-7183,B,Lagos,Normal,Male,"Fashion accessories",57.27,3,8.59,180.40,2019-02-09,20:31:00,Ewallet,171.81,4.76,8.59,6.50,Saturday,February
+748-45-2862,A,Abuja,Member,Female,"Home and lifestyle",28.31,4,5.66,118.90,2019-03-07,18:35:00,Cash,113.24,4.76,5.66,8.20,Thursday,March
+749-24-1565,A,Abuja,Normal,Female,"Health and beauty",23.03,9,10.36,217.63,2019-01-03,12:02:00,Ewallet,207.27,4.76,10.36,7.90,Thursday,January
+749-81-8133,A,Abuja,Normal,Female,"Fashion accessories",94.67,4,18.93,397.61,2019-03-11,12:04:00,Cash,378.68,4.76,18.93,6.80,Monday,March
+750-67-8428,A,Abuja,Member,Female,"Health and beauty",74.69,7,26.14,548.97,2019-01-05,13:08:00,Ewallet,522.83,4.76,26.14,9.10,Saturday,January
+751-15-6198,B,Lagos,Normal,Male,"Sports and travel",23.01,6,6.90,144.96,2019-01-12,16:45:00,Ewallet,138.06,4.76,6.90,7.90,Saturday,January
+751-41-9720,C,Kano,Normal,Male,"Home and lifestyle",97.5,10,48.75,1023.75,2019-01-12,16:18:00,Ewallet,975.00,4.76,48.75,8.00,Saturday,January
+751-69-0068,C,Kano,Normal,Male,"Sports and travel",99.24,9,44.66,937.82,2019-03-19,19:09:00,Ewallet,893.16,4.76,44.66,9.00,Tuesday,March
+756-01-7507,C,Kano,Normal,Female,"Health and beauty",20.38,5,5.10,107.00,2019-01-22,18:56:00,Cash,101.90,4.76,5.10,6.00,Tuesday,January
+756-49-0168,A,Abuja,Member,Male,"Fashion accessories",19.7,1,0.99,20.69,2019-02-08,11:39:00,Ewallet,19.70,4.76,0.99,9.50,Friday,February
+759-29-9521,A,Abuja,Member,Female,"Fashion accessories",48.96,9,22.03,462.67,2019-03-04,11:27:00,Cash,440.64,4.76,22.03,8.00,Monday,March
+760-27-5490,C,Kano,Normal,Male,"Fashion accessories",15.62,8,6.25,131.21,2019-01-20,20:37:00,Ewallet,124.96,4.76,6.25,9.10,Sunday,January
+760-54-1821,B,Lagos,Normal,Male,"Home and lifestyle",13.59,9,6.12,128.43,2019-03-15,10:26:00,Cash,122.31,4.76,6.12,5.80,Friday,March
+760-90-2357,A,Abuja,Member,Male,"Electronic accessories",74.51,6,22.35,469.41,2019-03-20,15:08:00,Ewallet,447.06,4.76,22.35,5.00,Wednesday,March
+761-49-0439,B,Lagos,Member,Female,"Electronic accessories",12.1,8,4.84,101.64,2019-01-19,10:17:00,Ewallet,96.80,4.76,4.84,8.60,Saturday,January
+764-44-8999,B,Lagos,Normal,Female,"Health and beauty",14.76,2,1.48,31.00,2019-02-18,14:42:00,Ewallet,29.52,4.76,1.48,4.30,Monday,February
+766-85-7061,B,Lagos,Normal,Male,"Health and beauty",87.87,10,43.94,922.64,2019-03-29,10:25:00,Ewallet,878.70,4.76,43.94,5.10,Friday,March
+767-05-1286,C,Kano,Member,Female,"Home and lifestyle",83.77,6,25.13,527.75,2019-01-23,12:10:00,Ewallet,502.62,4.76,25.13,5.40,Wednesday,January
+767-54-1907,B,Lagos,Member,Female,"Fashion accessories",29.56,5,7.39,155.19,2019-02-13,16:59:00,Cash,147.80,4.76,7.39,6.90,Wednesday,February
+770-42-8960,B,Lagos,Normal,Male,"Food and beverages",21.12,8,8.45,177.41,2019-01-01,19:31:00,Cash,168.96,4.76,8.45,6.30,Tuesday,January
+775-72-1988,B,Lagos,Normal,Male,"Home and lifestyle",73.28,5,18.32,384.72,2019-01-24,15:05:00,Ewallet,366.40,4.76,18.32,8.40,Thursday,January
+777-67-2495,B,Lagos,Normal,Male,"Home and lifestyle",68.97,3,10.35,217.26,2019-02-22,11:26:00,Ewallet,206.91,4.76,10.35,8.70,Friday,February
+777-82-7220,B,Lagos,Member,Male,"Home and lifestyle",30.12,8,12.05,253.01,2019-03-03,13:01:00,Cash,240.96,4.76,12.05,7.70,Sunday,March
+778-34-2523,A,Abuja,Member,Female,"Electronic accessories",48.62,8,19.45,408.41,2019-01-24,10:57:00,Cash,388.96,4.76,19.45,5.00,Thursday,January
+778-89-7974,C,Kano,Normal,Male,"Health and beauty",70.21,6,21.06,442.32,2019-03-30,14:58:00,Cash,421.26,4.76,21.06,7.40,Saturday,March
+779-06-0012,C,Kano,Member,Female,"Home and lifestyle",88.61,1,4.43,93.04,2019-01-19,10:21:00,Cash,88.61,4.76,4.43,7.70,Saturday,January
+779-42-2410,B,Lagos,Member,Male,"Food and beverages",57.74,3,8.66,181.88,2019-02-20,13:06:00,Ewallet,173.22,4.76,8.66,7.70,Wednesday,February
+781-84-8059,C,Kano,Normal,Male,"Fashion accessories",60.74,7,21.26,446.44,2019-01-18,16:23:00,Ewallet,425.18,4.76,21.26,5.00,Friday,January
+783-09-1637,B,Lagos,Normal,Female,"Sports and travel",67.43,5,16.86,354.01,2019-03-06,18:13:00,Ewallet,337.15,4.76,16.86,6.30,Wednesday,March
+784-08-0310,C,Kano,Member,Female,"Food and beverages",21.04,4,4.21,88.37,2019-01-13,13:58:00,Cash,84.16,4.76,4.21,7.60,Sunday,January
+784-21-9238,C,Kano,Member,Male,"Sports and travel",10.17,1,0.51,10.68,2019-02-07,14:15:00,Cash,10.17,4.76,0.51,5.90,Thursday,February
+785-96-0615,B,Lagos,Member,Female,"Electronic accessories",35.74,8,14.30,300.22,2019-02-17,15:28:00,Ewallet,285.92,4.76,14.30,4.90,Sunday,February
+786-94-2700,A,Abuja,Member,Male,"Food and beverages",80.62,6,24.19,507.91,2019-02-28,20:18:00,Cash,483.72,4.76,24.19,9.10,Thursday,February
+787-15-1757,C,Kano,Member,Male,"Health and beauty",44.07,4,8.81,185.09,2019-02-18,16:28:00,Ewallet,176.28,4.76,8.81,8.40,Monday,February
+788-07-8452,C,Kano,Member,Female,"Home and lifestyle",24.24,7,8.48,178.16,2019-01-27,17:38:00,Ewallet,169.68,4.76,8.48,9.40,Sunday,January
+789-23-8625,B,Lagos,Member,Male,"Fashion accessories",93.22,3,13.98,293.64,2019-01-24,11:45:00,Cash,279.66,4.76,13.98,7.20,Thursday,January
+794-32-2436,B,Lagos,Member,Male,"Electronic accessories",55.67,2,5.57,116.91,2019-03-27,15:08:00,Ewallet,111.34,4.76,5.57,6.00,Wednesday,March
+795-49-7276,A,Abuja,Normal,Male,"Fashion accessories",37.15,4,7.43,156.03,2019-03-23,18:59:00,Ewallet,148.60,4.76,7.43,8.30,Saturday,March
+796-12-2025,C,Kano,Normal,Male,"Fashion accessories",62.12,10,31.06,652.26,2019-02-11,16:19:00,Cash,621.20,4.76,31.06,5.90,Monday,February
+796-32-9050,A,Abuja,Normal,Male,"Food and beverages",51.28,6,15.38,323.06,2019-01-19,16:31:00,Cash,307.68,4.76,15.38,6.50,Saturday,January
+797-88-0493,A,Abuja,Normal,Female,"Health and beauty",64.27,4,12.85,269.93,2019-03-26,13:54:00,Cash,257.08,4.76,12.85,7.70,Tuesday,March
+800-09-8606,A,Abuja,Member,Female,"Home and lifestyle",87.37,5,21.84,458.69,2019-01-29,19:45:00,Cash,436.85,4.76,21.84,6.60,Tuesday,January
+802-70-5316,A,Abuja,Member,Female,"Sports and travel",92.13,6,27.64,580.42,2019-03-06,20:34:00,Cash,552.78,4.76,27.64,8.30,Wednesday,March
+803-17-8013,A,Abuja,Member,Female,"Home and lifestyle",88.79,8,35.52,745.84,2019-02-17,17:09:00,Cash,710.32,4.76,35.52,4.10,Sunday,February
+803-83-5989,C,Kano,Normal,Male,"Home and lifestyle",55.73,6,16.72,351.10,2019-02-24,10:55:00,Ewallet,334.38,4.76,16.72,7.00,Sunday,February
+805-86-0265,A,Abuja,Normal,Male,"Home and lifestyle",93.96,9,42.28,887.92,2019-03-20,11:32:00,Cash,845.64,4.76,42.28,9.80,Wednesday,March
+807-14-7833,A,Abuja,Member,Female,"Electronic accessories",17.42,10,8.71,182.91,2019-02-22,12:30:00,Ewallet,174.20,4.76,8.71,7.00,Friday,February
+807-34-3742,A,Abuja,Normal,Male,"Fashion accessories",52.38,1,2.62,55.00,2019-03-26,19:44:00,Cash,52.38,4.76,2.62,5.80,Tuesday,March
+809-46-1866,A,Abuja,Normal,Male,"Health and beauty",58.15,4,11.63,244.23,2019-01-23,17:44:00,Cash,232.60,4.76,11.63,8.40,Wednesday,January
+809-69-9497,A,Abuja,Normal,Female,"Home and lifestyle",45.68,10,22.84,479.64,2019-01-19,19:30:00,Ewallet,456.80,4.76,22.84,5.70,Saturday,January
+815-11-1168,A,Abuja,Member,Male,"Food and beverages",99.78,5,24.95,523.85,2019-03-09,19:09:00,Cash,498.90,4.76,24.95,5.40,Saturday,March
+816-57-2053,A,Abuja,Normal,Male,"Sports and travel",60.87,2,6.09,127.83,2019-03-09,12:37:00,Ewallet,121.74,4.76,6.09,8.70,Saturday,March
+816-72-8853,A,Abuja,Member,Female,"Sports and travel",27.93,5,6.98,146.63,2019-01-29,15:48:00,Cash,139.65,4.76,6.98,5.90,Tuesday,January
+817-48-8732,A,Abuja,Member,Female,"Home and lifestyle",72.35,10,36.18,759.68,2019-01-20,15:55:00,Cash,723.50,4.76,36.18,5.40,Sunday,January
+821-07-3596,C,Kano,Normal,Female,"Fashion accessories",16.45,4,3.29,69.09,2019-03-07,14:53:00,Ewallet,65.80,4.76,3.29,5.60,Thursday,March
+824-88-3614,C,Kano,Normal,Male,"Health and beauty",34.31,8,13.72,288.20,2019-01-25,15:00:00,Ewallet,274.48,4.76,13.72,5.70,Friday,January
+825-94-5922,B,Lagos,Normal,Male,"Sports and travel",25.31,2,2.53,53.15,2019-03-02,19:26:00,Ewallet,50.62,4.76,2.53,7.20,Saturday,March
+826-58-8051,B,Lagos,Normal,Male,"Home and lifestyle",62.19,4,12.44,261.20,2019-01-06,19:46:00,Ewallet,248.76,4.76,12.44,4.30,Sunday,January
+827-26-2100,A,Abuja,Member,Male,"Home and lifestyle",33.84,9,15.23,319.79,2019-03-21,16:21:00,Ewallet,304.56,4.76,15.23,8.80,Thursday,March
+827-77-7633,A,Abuja,Normal,Male,"Sports and travel",98.09,9,44.14,926.95,2019-02-17,19:41:00,Cash,882.81,4.76,44.14,9.30,Sunday,February
+829-34-3910,A,Abuja,Normal,Female,"Health and beauty",71.38,10,35.69,749.49,2019-03-29,19:21:00,Cash,713.80,4.76,35.69,5.70,Friday,March
+829-49-1914,C,Kano,Member,Female,"Food and beverages",78.31,10,39.16,822.26,2019-03-05,16:24:00,Ewallet,783.10,4.76,39.16,6.60,Tuesday,March
+830-58-2383,B,Lagos,Normal,Male,"Home and lifestyle",31.75,4,6.35,133.35,2019-02-08,15:26:00,Cash,127.00,4.76,6.35,8.60,Friday,February
+831-64-0259,B,Lagos,Normal,Female,"Fashion accessories",39.75,5,9.94,208.69,2019-02-22,10:43:00,Ewallet,198.75,4.76,9.94,9.60,Friday,February
+831-81-6575,B,Lagos,Member,Female,"Electronic accessories",75.59,9,34.02,714.33,2019-02-23,11:12:00,Cash,680.31,4.76,34.02,8.00,Saturday,February
+832-51-6761,A,Abuja,Normal,Male,"Food and beverages",33.88,8,13.55,284.59,2019-01-19,20:29:00,Ewallet,271.04,4.76,13.55,9.60,Saturday,January
+834-25-9262,C,Kano,Normal,Female,"Fashion accessories",81.68,4,16.34,343.06,2019-01-06,12:12:00,Cash,326.72,4.76,16.34,9.10,Sunday,January
+834-45-5519,B,Lagos,Normal,Female,"Electronic accessories",43,4,8.60,180.60,2019-01-31,20:48:00,Ewallet,172.00,4.76,8.60,7.60,Thursday,January
+834-61-8124,A,Abuja,Normal,Male,"Electronic accessories",51.69,7,18.09,379.92,2019-01-26,18:22:00,Cash,361.83,4.76,18.09,5.50,Saturday,January
+835-16-0096,C,Kano,Member,Male,"Sports and travel",14.7,5,3.68,77.18,2019-03-24,13:48:00,Ewallet,73.50,4.76,3.68,8.50,Sunday,March
+836-82-5858,B,Lagos,Member,Male,"Health and beauty",69.37,9,31.22,655.55,2019-01-26,19:14:00,Ewallet,624.33,4.76,31.22,4.00,Saturday,January
+838-78-4295,C,Kano,Normal,Female,"Health and beauty",33.47,2,3.35,70.29,2019-02-10,15:43:00,Ewallet,66.94,4.76,3.35,6.70,Sunday,February
+840-19-2096,C,Kano,Member,Male,"Electronic accessories",87.91,5,21.98,461.53,2019-03-14,18:10:00,Ewallet,439.55,4.76,21.98,4.40,Thursday,March
+840-76-5966,A,Abuja,Member,Male,"Sports and travel",12.76,2,1.28,26.80,2019-01-08,18:06:00,Ewallet,25.52,4.76,1.28,7.80,Tuesday,January
+841-35-6630,C,Kano,Normal,Female,"Electronic accessories",75.91,6,22.77,478.23,2019-03-09,18:21:00,Cash,455.46,4.76,22.77,8.70,Saturday,March
+843-73-4724,A,Abuja,Normal,Male,"Fashion accessories",74.1,1,3.71,77.81,2019-01-25,11:05:00,Cash,74.10,4.76,3.71,9.20,Friday,January
+845-51-0542,B,Lagos,Member,Male,"Food and beverages",46.55,9,20.95,439.90,2019-02-02,15:34:00,Ewallet,418.95,4.76,20.95,6.40,Saturday,February
+845-94-6841,C,Kano,Member,Female,"Food and beverages",72.88,9,32.80,688.72,2019-01-08,19:38:00,Cash,655.92,4.76,32.80,4.00,Tuesday,January
+846-10-0341,A,Abuja,Normal,Female,"Fashion accessories",42.57,7,14.90,312.89,2019-01-06,11:51:00,Cash,297.99,4.76,14.90,6.80,Sunday,January
+847-38-7188,B,Lagos,Normal,Female,"Food and beverages",96.68,3,14.50,304.54,2019-01-26,19:56:00,Ewallet,290.04,4.76,14.50,6.40,Saturday,January
+848-07-1692,B,Lagos,Normal,Female,"Health and beauty",57.22,2,5.72,120.16,2019-01-12,17:13:00,Ewallet,114.44,4.76,5.72,8.30,Saturday,January
+848-24-9445,C,Kano,Member,Male,"Health and beauty",43.7,2,4.37,91.77,2019-03-26,18:03:00,Cash,87.40,4.76,4.37,4.90,Tuesday,March
+848-42-2560,A,Abuja,Normal,Female,"Fashion accessories",81.91,2,8.19,172.01,2019-03-05,17:43:00,Cash,163.82,4.76,8.19,7.80,Tuesday,March
+848-62-7243,A,Abuja,Normal,Male,"Health and beauty",24.89,9,11.20,235.21,2019-03-15,15:36:00,Cash,224.01,4.76,11.20,7.40,Friday,March
+848-95-6252,C,Kano,Member,Female,"Home and lifestyle",86.27,1,4.31,90.58,2019-02-20,13:24:00,Ewallet,86.27,4.76,4.31,7.00,Wednesday,February
+849-09-3807,A,Abuja,Member,Female,"Fashion accessories",88.34,7,30.92,649.30,2019-02-18,13:28:00,Cash,618.38,4.76,30.92,6.60,Monday,February
+850-41-9669,A,Abuja,Normal,Female,"Electronic accessories",75.06,9,33.78,709.32,2019-03-19,13:25:00,Ewallet,675.54,4.76,33.78,6.20,Tuesday,March
+851-28-6367,A,Abuja,Member,Male,"Sports and travel",15.5,10,7.75,162.75,2019-03-23,10:55:00,Ewallet,155.00,4.76,7.75,8.00,Saturday,March
+852-82-2749,A,Abuja,Normal,Male,"Sports and travel",64.59,4,12.92,271.28,2019-01-06,13:35:00,Ewallet,258.36,4.76,12.92,9.30,Sunday,January
+853-23-2453,B,Lagos,Member,Male,"Health and beauty",75.74,4,15.15,318.11,2019-02-14,14:35:00,Cash,302.96,4.76,15.15,7.60,Thursday,February
+856-22-8149,A,Abuja,Normal,Female,"Home and lifestyle",25.29,1,1.26,26.55,2019-03-23,10:13:00,Ewallet,25.29,4.76,1.26,6.10,Saturday,March
+856-66-2701,A,Abuja,Member,Male,"Home and lifestyle",53.3,3,8.00,167.90,2019-01-25,14:19:00,Ewallet,159.90,4.76,8.00,7.50,Friday,January
+857-16-3520,A,Abuja,Member,Female,"Fashion accessories",71.46,7,25.01,525.23,2019-03-28,16:06:00,Ewallet,500.22,4.76,25.01,4.50,Thursday,March
+857-67-9057,B,Lagos,Normal,Male,"Electronic accessories",22.95,10,11.48,240.98,2019-02-06,19:20:00,Ewallet,229.50,4.76,11.48,8.20,Wednesday,February
+859-71-0933,C,Kano,Member,Female,"Sports and travel",15.49,2,1.55,32.53,2019-01-16,15:10:00,Cash,30.98,4.76,1.55,6.30,Wednesday,January
+861-77-0145,C,Kano,Member,Male,"Electronic accessories",81.97,10,40.99,860.69,2019-03-03,14:30:00,Cash,819.70,4.76,40.99,9.20,Sunday,March
+862-59-8517,C,Kano,Normal,Female,"Food and beverages",90.24,6,27.07,568.51,2019-01-27,11:17:00,Cash,541.44,4.76,27.07,6.20,Sunday,January
+864-24-7918,A,Abuja,Member,Female,"Sports and travel",24.49,10,12.25,257.15,2019-02-22,15:15:00,Cash,244.90,4.76,12.25,8.10,Friday,February
+865-41-9075,A,Abuja,Normal,Male,"Food and beverages",11.53,7,4.04,84.75,2019-01-28,17:35:00,Cash,80.71,4.76,4.04,8.10,Monday,January
+865-92-6136,A,Abuja,Normal,Male,"Food and beverages",52.75,3,7.91,166.16,2019-03-23,10:16:00,Ewallet,158.25,4.76,7.91,9.30,Saturday,March
+866-05-7563,B,Lagos,Member,Female,"Electronic accessories",81.4,3,12.21,256.41,2019-02-09,19:43:00,Cash,244.20,4.76,12.21,4.80,Saturday,February
+866-70-2814,B,Lagos,Normal,Female,"Electronic accessories",52.79,10,26.40,554.30,2019-02-25,11:58:00,Ewallet,527.90,4.76,26.40,10.00,Monday,February
+867-47-1948,C,Kano,Normal,Female,"Home and lifestyle",15.8,10,7.90,165.90,2019-01-09,12:07:00,Cash,158.00,4.76,7.90,7.80,Wednesday,January
+868-52-7573,B,Lagos,Normal,Female,"Food and beverages",99.69,5,24.92,523.37,2019-01-14,12:09:00,Cash,498.45,4.76,24.92,9.90,Monday,January
+868-81-1752,B,Lagos,Normal,Male,"Home and lifestyle",22.02,9,9.91,208.09,2019-02-07,18:48:00,Cash,198.18,4.76,9.91,6.80,Thursday,February
+870-54-3162,A,Abuja,Normal,Female,"Sports and travel",32.25,5,8.06,169.31,2019-01-27,13:26:00,Cash,161.25,4.76,8.06,9.00,Sunday,January
+871-39-9221,C,Kano,Normal,Female,"Electronic accessories",12.45,6,3.74,78.44,2019-02-09,13:11:00,Cash,74.70,4.76,3.74,4.10,Saturday,February
+873-51-0671,A,Abuja,Member,Female,"Sports and travel",21.98,7,7.69,161.55,2019-01-10,16:42:00,Ewallet,153.86,4.76,7.69,5.10,Thursday,January
+873-95-4984,B,Lagos,Member,Female,"Health and beauty",76.9,7,26.92,565.22,2019-02-15,20:21:00,Cash,538.30,4.76,26.92,7.70,Friday,February
+875-31-8302,B,Lagos,Normal,Male,"Sports and travel",93.38,1,4.67,98.05,2019-01-03,13:07:00,Cash,93.38,4.76,4.67,9.60,Thursday,January
+875-46-5808,B,Lagos,Member,Male,"Health and beauty",25.9,10,12.95,271.95,2019-02-06,14:51:00,Ewallet,259.00,4.76,12.95,8.70,Wednesday,February
+877-22-3308,A,Abuja,Member,Male,"Health and beauty",15.87,10,7.94,166.64,2019-03-13,16:40:00,Cash,158.70,4.76,7.94,5.80,Wednesday,March
+880-35-0356,A,Abuja,Member,Female,"Sports and travel",75.2,3,11.28,236.88,2019-02-05,11:51:00,Ewallet,225.60,4.76,11.28,4.80,Tuesday,February
+880-46-5796,A,Abuja,Member,Male,"Sports and travel",76.92,10,38.46,807.66,2019-03-17,19:53:00,Ewallet,769.20,4.76,38.46,5.60,Sunday,March
+884-80-6021,A,Abuja,Member,Female,"Electronic accessories",73.47,10,36.74,771.44,2019-03-23,13:14:00,Ewallet,734.70,4.76,36.74,9.50,Saturday,March
+885-17-6250,A,Abuja,Normal,Female,"Health and beauty",79.74,1,3.99,83.73,2019-03-06,10:36:00,Ewallet,79.74,4.76,3.99,7.30,Wednesday,March
+885-56-0389,C,Kano,Member,Male,"Fashion accessories",52.35,1,2.62,54.97,2019-02-12,17:49:00,Cash,52.35,4.76,2.62,4.00,Tuesday,February
+886-54-6089,A,Abuja,Normal,Female,"Home and lifestyle",11.43,6,3.43,72.01,2019-01-15,17:24:00,Cash,68.58,4.76,3.43,7.70,Tuesday,January
+886-77-9084,C,Kano,Normal,Male,"Electronic accessories",71.89,8,28.76,603.88,2019-02-19,11:33:00,Ewallet,575.12,4.76,28.76,5.50,Tuesday,February
+888-02-0338,A,Abuja,Normal,Male,"Electronic accessories",26.23,9,11.80,247.87,2019-01-25,20:24:00,Ewallet,236.07,4.76,11.80,5.90,Friday,January
+891-01-7034,B,Lagos,Normal,Female,"Electronic accessories",74.71,6,22.41,470.67,2019-01-01,19:07:00,Cash,448.26,4.76,22.41,6.70,Tuesday,January
+891-58-8335,B,Lagos,Member,Female,"Sports and travel",29.61,7,10.36,217.63,2019-03-11,15:53:00,Cash,207.27,4.76,10.36,6.50,Monday,March
+892-05-6689,A,Abuja,Normal,Female,"Home and lifestyle",28.32,5,7.08,148.68,2019-03-11,13:28:00,Ewallet,141.60,4.76,7.08,6.20,Monday,March
+895-03-6665,B,Lagos,Normal,Female,"Fashion accessories",36.51,9,16.43,345.02,2019-02-16,10:52:00,Cash,328.59,4.76,16.43,4.20,Saturday,February
+895-66-0685,B,Lagos,Member,Male,"Food and beverages",18.08,3,2.71,56.95,2019-03-05,19:46:00,Ewallet,54.24,4.76,2.71,8.00,Tuesday,March
+896-34-0956,A,Abuja,Normal,Male,"Fashion accessories",21.32,1,1.07,22.39,2019-01-26,12:43:00,Cash,21.32,4.76,1.07,5.90,Saturday,January
+898-04-2717,A,Abuja,Normal,Male,"Fashion accessories",76.4,9,34.38,721.98,2019-03-19,15:49:00,Ewallet,687.60,4.76,34.38,7.50,Tuesday,March
