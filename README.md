@@ -22,6 +22,7 @@ __Insights:__
 Branch C has the highest sales, while Branch B lags behind, suggesting that improvements are needed in Branch B’s product mix or customer outreach.
 
 2. What is the most selling product line?
+   
 ![sql P](https://github.com/user-attachments/assets/5e4add26-745f-4ecf-aedf-820c747b4356)
 
 __Insight:__ Electronic accessories and Home & lifestyle, products are the top-selling items, indicating their popularity and potential for targeted promotions.
