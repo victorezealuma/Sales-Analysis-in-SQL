@@ -42,6 +42,9 @@ __Branch Performance:__ Branch C consistently outperforms the other two branches
 
 __Product Trends:__ Electronics, Home and Sports products are the top 3 popular selling products, with Electronics accessories being the highest seller.
 
+__Sales Trends:__ Sales increased in March after dropping slightly in February, indicating potential seasonal variations.
+
+
 
 
 
