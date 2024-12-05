@@ -40,7 +40,7 @@ __Insight:__ Electronic accessories and Home & lifestyle products are the top-se
 ## Key Insights & Findings
 __Branch Performance:__ Branch C consistently outperforms the other two branches in sales.
 
-__Product Trends:__ Electronics, Home and Sports products are on most popular products, with Electronics accessories being the highest seller.
+__Product Trends:__ Electronics, Home and Sports products are the top 3 popular selling products, with Electronics accessories being the highest seller.
 
 
 
