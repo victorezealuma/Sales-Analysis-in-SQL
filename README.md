@@ -37,6 +37,19 @@ Branch C has the highest sales, while Branch B lags behind, suggesting that impr
 __Insight:__ Electronic accessories and Home & lifestyle products are the top-selling items, indicating their popularity and potential for targeted promotions.
 
 
+
+#### 2. What is the total revenue generated each month?
+
+![MR](https://github.com/user-attachments/assets/0bc908a2-d07d-4db5-a177-553989c0ecd2)
+
+
+![MR1](https://github.com/user-attachments/assets/88fc2a38-7c30-4a17-b63e-7b2b0317f9e4)
+
+
+__Insight:__ February recoreded low at 29% in total revenue generated across all branches for the month.
+
+
+
 ## Key Insights & Findings
 __Branch Performance:__ Branch C consistently outperforms the other two branches in sales.
 
