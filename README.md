@@ -48,7 +48,7 @@ __Insight:__ Electronic accessories and Home & lifestyle products are the top-se
 
 ![MR1](https://github.com/user-attachments/assets/88fc2a38-7c30-4a17-b63e-7b2b0317f9e4)
 
-__Insight:__ February recoreded low at 29% in total revenue generated across all branches for the month.
+__Insight:__ February recorded low at 29% in total revenue generated across all branches for the month.
 
 
 
