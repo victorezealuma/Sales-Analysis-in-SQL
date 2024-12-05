@@ -38,7 +38,7 @@ __Insight:__ Electronic accessories and Home & lifestyle products are the top-se
 
 
 
-#### 2. What is the total revenue generated each month?
+#### 3. What is the total revenue generated each month?
 
 ![MR](https://github.com/user-attachments/assets/0bc908a2-d07d-4db5-a177-553989c0ecd2)
 
